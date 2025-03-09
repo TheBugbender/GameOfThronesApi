@@ -1,1 +1,1 @@
-rootProject.name = "gotapi"
+rootProject.name = "GameOfThronesApi"

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Tyrion Lannister",
+    "actor": "Peter Dinklage",
+    "debut": "Season 1",
+    "imageUrl": "/images/tyrion_lannister.jpg",
+    "description": "Tyrion Lannister is the youngest child of Lord Tywin Lannister and Lady Joanna Lannister, who died giving birth to him. Born with dwarfism, Tyrion has faced scorn and mockery throughout his life, often using his sharp wit and intellect as both defense and weapon. Despite his family's disdain, he possesses a keen political mind and a surprisingly strong moral compass. Unlike many in Westeros, Tyrion strives to protect the realm and those who cannot defend themselves, even when it means opposing his own family's interests. His journey is marked by his resilience in the face of prejudice and his unwavering commitment to justice and knowledge.",
+    "memorableMoments": [
+      "Slapping Prince Joffrey across the face for his disrespectful behavior.",
+      "Leading the defense of King's Landing during the Battle of Blackwater.",
+      "His trial speech where he declares, 'I wish I was the monster you think I am.'"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Daenerys Targaryen",
+    "actor": "Emilia Clarke",
+    "debut": "Season 1",
+    "imageUrl": "/images/daenerys_targaryen.jpg",
+    "description": "Whether Daenerys will be remembered as a legendary savior or a formidable conqueror, her impact on Westeros is undeniable. From the start, she has been portrayed as the destined ruler of the Iron Throne, with a narrative that runs parallel to events in King's Landing. Her journey includes pivotal moments like reviving dragons, which reintroduced magic into the world.\n\nHer ultimate role in this saga remains uncertain, but her influence on the unfolding story is undeniable. Daenerys Targaryen stands as one of the key figures shaping the series' outcome.",
+    "memorableMoments": [
+      "When she emerged from Khal Drogo's funeral pyre, standing bare and accompanied by three newborn dragons.",
+      "Her commanding presence that led to victory over the Unsullied with just a single command: \"Dracarys.\"",
+      "The first time she soared on Drogon, escaping an attack in Meereen."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Jon Snow",
+    "actor": "Kit Harington",
+    "debut": "Season 1",
+    "imageUrl": "/images/jon_snow.jpg",
+    "description": "Jon Snow stands out as one of Game of Thrones' most compelling characters, embodying classic heroism with his unwavering honor, kindness, intelligence, persistence, and selflessness. Time and again, he prioritizes duty over personal desires, demonstrating true leadership.\n\nIn a tragic twist, Jon is killed in a mutiny by men he once commanded. His allies resort to magic in desperation to bring him back, underscoring his importance as both a good man and their leader.\n\nBeyond his role in the Night’s Watch, Jon's mysterious parentage adds depth to his character. Known initially as Ned Stark's illegitimate son, Jon has shown little interest in claiming the Iron Throne. However, should he discover a legitimate claim to it, along with the support of the North as \"King in the North,\" it could lead to fascinating developments, especially when encountering Daenerys and her dragons.",
+    "memorableMoments": [
+      "Discovering his white direwolf pup, Ghost, and feeling an instant connection.",
+      "Choosing to remain Lord Commander of the Night’s Watch over being legitimized as a Stark.",
+      "Being resurrected by Melisandre in Season 6, surprising everyone who believed him dead."
+    ]
+  }
+
+]
