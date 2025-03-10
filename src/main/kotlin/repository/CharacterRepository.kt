@@ -2,6 +2,7 @@ package com.bugbender.repository
 
 import com.bugbender.model.Character
 import kotlinx.serialization.json.Json
+import java.util.*
 
 class CharacterRepository(private val baseUrl: String) {
     private val characters: List<Character>
@@ -15,4 +16,6 @@ class CharacterRepository(private val baseUrl: String) {
     }
 
     fun getAll(): List<Character> = characters
+
+    fun getRandom(): Character = characters[Random().nextInt(characters.size)]
 }

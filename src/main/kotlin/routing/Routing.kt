@@ -14,6 +14,11 @@ fun Application.configureRouting(repository: CharacterRepository) {
             call.respond(HttpStatusCode.OK, characters)
         }
 
+        get("/character/random") {
+            val character = repository.getRandom()
+            call.respond(HttpStatusCode.OK, character)
+        }
+
         staticResources("/images", "images")
     }
 }
