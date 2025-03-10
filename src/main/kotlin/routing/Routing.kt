@@ -9,12 +9,16 @@ import io.ktor.server.routing.*
 
 fun Application.configureRouting(repository: CharacterRepository) {
     routing {
+        get("/health") {
+            call.respond(HttpStatusCode.OK)
+        }
+
         get("/characters") {
             val characters = repository.getAll()
             call.respond(HttpStatusCode.OK, characters)
         }
 
-        get("/character/random") {
+        get("/characters/random") {
             val character = repository.getRandom()
             call.respond(HttpStatusCode.OK, character)
         }
