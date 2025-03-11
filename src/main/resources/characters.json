@@ -37,6 +37,103 @@
       "Choosing to remain Lord Commander of the Night’s Watch over being legitimized as a Stark.",
       "Being resurrected by Melisandre in Season 6, surprising everyone who believed him dead."
     ]
+  },
+  {
+    "id": 4,
+    "name": "Cersei Lannister",
+    "actor": "Lena Headey",
+    "debut": "Season 1",
+    "imageUrl": "/images/cersei_lannister.jpg",
+    "description": "Cersei Lannister is one of Game of Thrones' most compelling and enigmatic figures. Her character blends a ruthless ambition with deep flaws and cunning intelligence. As a woman navigating the treacherous political landscape, she strives for equality in a male-dominated world. Her mantra, \"when you play the game of thrones, you win or you die,\" has guided her actions, earning both fear and respect as she endures when more honorable figures fall.\n\nDespite committing terrible acts and spiraling into madness, Cersei's determination to ascend the political ladder is undeniable. Her resilience in a hostile world makes her an unforgettable character in Westeros.",
+    "memorableMoments": [
+      "The shocking moment Bran witnesses Cersei engaging in incest with her brother.",
+      "The infamous Walk of Shame that remains etched in memory for both fans and Cersei herself.",
+      "Despite losing much, Cersei achieves a bittersweet triumph when she finally claims the Iron Throne as queen."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Arya Stark",
+    "actor": "Maisie Williams",
+    "debut": "Season 1",
+    "imageUrl": "/images/arya_stark.jpg",
+    "description": "Arya Stark’s journey through Game of Thrones is marked by resilience and adaptability. Despite being one of the series' least powerful principal characters, she demonstrates remarkable strength and resourcefulness. Arya has faced numerous challenges, from periods where her character development seemed to stall, to becoming a formidable survivor in Westeros.\n\nHer ability to reinvent herself — as a water dancer, under her nickname Arry, or as a blind assassin named \"No One\" — highlights her versatility. Among her most compelling story arcs is her travels with the Hound, which stands out as one of the series' finest moments.",
+    "memorableMoments": [
+      "Arya's initiation into killing is a pivotal moment for her character, famously instructing to 'stick him with the pointy end.'",
+      "Her rare laughter at Sansa’s departure from the Eyrie before Arya’s arrival underscores her unique perspective.",
+      "Each name crossed off her list of targets signifies her quest for vengeance, culminating in the unforgettable and satisfying death of Walder Frey."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Jaime Lannister",
+    "actor": "Nikolaj Coster-Waldau",
+    "debut": "Season 1",
+    "imageUrl": "/images/jaime_lannister.jpg",
+    "description": "Infamously known as the Kingslayer, Jaime Lannister's early actions included betraying his oath by assassinating King Aerys II. Once considered one of Westeros' greatest swordsmen, Jaime’s complex journey reveals layers beyond his initial villainous persona.\n\nHis deep, albeit controversial, love for his twin sister Cersei and a unique bond with his brother Tyrion add depth to his character. Key events — the loss of his right hand, which humbles him; the death of his father Tywin Lannister; and the tragic losses of his children — all contribute to Jaime's evolution.\n\nHis relationships with Brienne of Tarth and Bronn further illustrate his multifaceted nature, moving beyond his 'Prince Charming from Shrek' nickname. Though not completely redeemed, he is no longer the irredeemable figure he once appeared to be.",
+    "memorableMoments": [
+      "His decision to push Bran Stark out a window to protect Cersei marks a turning point: 'The things we do for love.'",
+      "The loss of his sword hand in Season 3 after being captured by Locke.",
+      "Choosing loyalty over personal safety, Jaime's strategic takeover of Riverrun during its siege is pivotal."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Eddard Stark",
+    "actor": "Sean Bean",
+    "debut": "Season 1",
+    "imageUrl": "/images/eddard_stark.jpg",
+    "description": "Eddard Stark's role in Game of Thrones is foundational, setting the tone with his unwavering commitment to honor, loyalty, and justice. His principles profoundly influence his children, many of whom become pivotal figures in Westeros' political landscape.\n\nNed’s tragic execution early in the series underscores a critical theme: sometimes, honor can be perilous. His legacy continues to echo throughout the story, shaping characters’ actions long after his death and serving as both a heroic archetype and a cautionary tale about the complexities of power and morality.",
+    "memorableMoments": [
+      "Ned imparts a crucial lesson on honor at the series' start: 'The man who carries the sentence swings the sword.'",
+      "Ignoring advice to navigate court politics carefully, he confronts Cersei Lannister about her children's legitimacy.",
+      "His shocking execution in Season 1’s penultimate episode marks one of television's most unexpected twists."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Tywin Lannister",
+    "actor": "Charles Dance",
+    "debut": "Season 1",
+    "imageUrl": "/images/tywin_lannister.jpg",
+    "description": "As one of Game of Thrones' most formidable figures, Tywin Lannister plays a pivotal role in shaping Westeros' political landscape. His influence is evident from the sacking of King's Landing during Robert's Rebellion to his strategic union with the crown, laying the groundwork for major plot developments throughout the series.\n\nCharles Dance’s portrayal captures Tywin's commanding presence and unnerving authority, leaving an indelible impression on both characters and audience alike. He drives significant character development among those around him — challenging Jaime Lannister to prove himself as his true heir, compelling Cersei Lannister to prioritize her family above all else, and constantly reminding Tyrion of his perceived inadequacies.",
+    "memorableMoments": [
+      "At Harrenhal, Tywin appoints a girl disguised as a boy as his cupbearer, unknowingly choosing Arya Stark.",
+      "In an act that irreparably damages their relationship, he arranges for Tyrion to stand trial for Joffrey's murder.",
+      "Despite his stature and power, Tywin meets an ironic end when he is murdered by his son Jaime while in the privy."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Varys \"The Spider\"",
+    "actor": "Conleth Hill",
+    "debut": "Season 1",
+    "imageUrl": "/images/varys.jpg",
+    "description": "Known as the Master of Whisperers, Varys plays a crucial role in Game of Thrones' intricate web of politics and intrigue. His network of informants, affectionately termed his 'little birds,' provides him with vital secrets that make him one of Westeros' most influential power players.\n\nVarys often finds himself competing with Littlefinger as the primary architect behind many secretive manipulations aimed at achieving larger goals. He is instrumental in guiding Daenerys Targaryen on her path to power and orchestrating Tyrion Lannister’s escape from execution to align with her mission of restoring the Targaryens, all under the guise of serving 'the good of the realm.' Despite his calm demeanor, Varys remains an enigmatic figure whose true motives are perpetually shrouded in mystery.",
+    "memorableMoments": [
+      "Arya Stark eavesdrops on a conversation between Varys and Illyrio Mopatis in Season 1, revealing their plans to resurrect the Targaryen dynasty.",
+      "Varys's decision to become a eunuch, following an encounter with a sorcerer who castrated him as part of a spell, marks a defining moment in his life.",
+      "In alignment with his longstanding strategy, Varys allies himself with Daenerys Targaryen and sails with her to reclaim Westeros."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Catelyn Stark",
+    "actor": "Michelle Fairley",
+    "debut": "Season 1",
+    "imageUrl": "/images/catelyn_stark.jpg",
+    "description": "Catelyn Stark embodies much more than simply being the matriarch of House Stark. As the Lady of Winterfell, her influence extends deeply over her husband and children, playing a pivotal role in the unfolding saga of Game of Thrones.\n\nHer resilience is profoundly tested as she witnesses her family torn apart by tragic events, making her one of Westeros' most formidable and steadfast figures. Her descent into despair culminates tragically at The Red Wedding, marking it as one of the series' most heart-wrenching moments.",
+    "memorableMoments": [
+      "Defying orders, Catelyn captures Tyrion Lannister and takes him to the Vale for trial, accusing him of Jon Arryn's murder.",
+      "In a desperate bid to ensure her daughters' safety, she decides to release Jaime Lannister, Robb Stark’s prisoner.",
+      "It is through Catelyn that we experience the harrowing realization and subsequent horror of the Red Wedding's betrayal."
+    ]
   }
+
+
+
+
+
+
 
 ]
