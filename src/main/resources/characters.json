@@ -128,12 +128,70 @@
       "In a desperate bid to ensure her daughters' safety, she decides to release Jaime Lannister, Robb Stark’s prisoner.",
       "It is through Catelyn that we experience the harrowing realization and subsequent horror of the Red Wedding's betrayal."
     ]
+  },
+  {
+    "id": 11,
+    "name": "Sansa Stark",
+    "actor": "Sophie Turner",
+    "debut": "Season 1",
+    "imageUrl": "/images/sansa_stark.jpg",
+    "description": "Initially perceived as the least likable member of the Stark family, Sansa's journey in Game of Thrones is transformative. Unlike her sister Arya, she yearned for a life filled with luxury and power, aspiring to be Queen. However, reality in Westeros taught her harsh lessons, through immense loss and suffering.\n\nSansa’s resilience becomes evident as she adapts and endures, learning to navigate the brutal world around her. She begins to master 'The Game' by leveraging Littlefinger's interest in her and ultimately orchestrates a well-deserved revenge on Ramsay Bolton, showcasing her growth from naivety to strategic acumen.",
+    "memorableMoments": [
+      "Unaware of the dangers surrounding her, Sansa inadvertently betrays her father Ned Stark to Cersei Lannister in Season 1, leading to his capture and execution.",
+      "Disguised as 'Alayne,' she boldly reveals her true identity to the lords of the Vale, reclaiming her power.",
+      "After enduring Ramsay Bolton's horrific abuses, Sansa exacts revenge by having him fed to his own dogs."
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Davos Seaworth",
+    "actor": "Liam Cunningham",
+    "debut": "Season 2",
+    "imageUrl": "/images/davos_seaworth.jpg",
+    "description": "In the ruthless world of Game of Thrones, few characters remain consistently likable and genuine without facing dire consequences. Davos Seaworth is a notable exception, though he has not been spared from sorrow and loss. Liam Cunningham's portrayal imbues Davos with a warmth and authenticity that adds humanity to the series' complex web of political intrigue and supernatural threats.\n\nDavos, originally a smuggler who becomes an advisor to kings, serves as the moral compass for the show. This humble man is guided by a strong personal code, recognizing that what might be prudent isn’t always morally correct. He tirelessly advocates for justice and self-belief among characters often consumed by ambition.\n\nWhether encouraging those around him or making heartfelt pleas when all else fails, Davos continually demonstrates his commitment to sacrificing for the greater good—a truly regal pursuit beyond any throne claim.",
+    "memorableMoments": [
+      "As Stannis Baratheon's Hand of the King, Davos leads the Baratheon fleet into the pivotal Battle of Blackwater.",
+      "Because of Shireen’s influence on him, he becomes the one to deliver the Night's Watch’s urgent request for reinforcements to Stannis.",
+      "His crucial testimony in Season 6 secures Jon and Sansa support from Lady Mormont."
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Brienne of Tarth",
+    "actor": "Gwendoline Christie",
+    "debut": "Season 2",
+    "imageUrl": "/images/brienne_of_tarth.jpg",
+    "description": "In a world where warrior women are rare, Brienne of Tarth stands out as an extraordinary figure. Despite being ridiculed for her masculine appearance and unconventional femininity, she remains steadfast in her commitment to chivalry and honor. After failing to protect Renly Baratheon, who was one of the few to believe in her, she finds herself allied with Jaime Lannister—her polar opposite. Yet, against all odds, they form a unique bond that transcends their loyalties and Houses, creating one of the series' most memorable pairings.\n\nOn the battlefield, Brienne's formidable strength and mastery of Oathkeeper make her an unstoppable force, having defeated numerous foes and triumphed over the Hound in a brutal confrontation. As both unwaveringly loyal and impressively powerful, Brienne is an unforgettable character who garners admiration and support from viewers.",
+    "memorableMoments": [
+      "Her quest to become a knight on Renly's Kingsguard earns her our enduring respect.",
+      "Jaime Lannister emerges as one of her most significant companions, highlighted by their iconic bath scene.",
+      "She brings the tale of 'The Bear and the Maiden Fair' to life with her battle against a bear at Harrenhal."
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Petyr 'Littlefinger' Baelish",
+    "actor": "Aidan Gillan",
+    "debut": "Season 1",
+    "imageUrl": "/images/littlefinger.jpg",
+    "description": "Lord Petyr Baelish, known as Littlefinger, masterminded the conspiracy that set the events of Game of Thrones into motion. By orchestrating Jon Arryn's death—Ned Stark's close ally—he maneuvered his way into power in King’s Landing. The former Master of Coin, now Lord Protector of the Eyrie and the Vale of Arryn, is renowned for his cunning and strategic mind. His web of secrets and plots rivals that of Varys, making him a central figure in Westeros' political intrigues.\n\nLittlefinger's actions are driven by an overarching scheme to ascend through the chaos, aiming for power at all costs. Despite his notorious reputation for betrayal, his unreturned love for Catelyn and later her daughter Sansa adds a layer of vulnerability to his otherwise deceitful persona.",
+    "memorableMoments": [
+      "Littlefinger betrays Ned Stark in Season 1, setting off a chain of events leading to the elder Stark's demise with the ominous line: 'I did warn you not to trust me.'",
+      "Demonstrating his affection for Sansa, he rescues her and smuggles her out of King’s Landing.",
+      "His timely arrival with the Vale's forces at the Battle of the Bastards, orchestrated by Sansa, turns the tide in a crucial moment."
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Joffrey Baratheon",
+    "actor": "Jack Gleeson",
+    "debut": "Season 1",
+    "imageUrl": "/images/joffrey_baratheon.jpg",
+    "description": "Joffrey Baratheon, portrayed by Jack Gleeson, is often remembered as one of Game of Thrones' most despised characters. His tenure on the Iron Throne saw him transform from a spoiled young prince into a sadistic and self-righteous tyrant. This gradual descent was marked by cruelty and tyranny, making his reign feel like an inevitable yet horrifying train wreck.\n\nJoffrey's role in destabilizing Westeros is significant; he was directly responsible for key events such as the execution of Ned Stark—deciding that the 'traitor' should be executed instead of given a chance at redemption. His erratic behavior and indifference to his people’s welfare forced others around him, including Tywin, Tyrion, Cersei, and Sansa, to adapt and rise to new challenges to either mitigate the chaos he caused or simply survive under his rule.\n\nDespite being widely disliked, Joffrey's impact on the series is undeniable. His actions set off a chain of events that reshaped the political landscape of Westeros, making him a catalyst for change throughout the story.",
+    "memorableMoments": [
+      "The audience’s disdain begins when he falsely accuses Arya and her direwolf Nymeria of attacking him, leading to the death of Mycah and his own direwolf Lady.",
+      "His order for Ned Stark's execution cements his place as one of the most hated characters in the series.",
+      "A memorable scene is Joffrey's murder on his wedding day, marked by the vivid image of his face turning purple."
+    ]
   }
-
-
-
-
-
-
-
 ]
