@@ -170,7 +170,7 @@
   },
   {
     "id": 14,
-    "name": "Petyr 'Littlefinger' Baelish",
+    "name": "Petyr Baelish \"Littlefinger\"",
     "actor": "Aidan Gillan",
     "debut": "Season 1",
     "imageUrl": "/images/littlefinger.jpg",
@@ -193,5 +193,86 @@
       "His order for Ned Stark's execution cements his place as one of the most hated characters in the series.",
       "A memorable scene is Joffrey's murder on his wedding day, marked by the vivid image of his face turning purple."
     ]
+  },
+  {
+    "id": 16,
+    "name": "Bran Stark",
+    "actor": "Isaac Hempstead-Wright",
+    "debut": "Season 1",
+    "imageUrl": "/images/bran_stark.jpg",
+    "description": "From early in Game of Thrones' narrative, Bran Stark emerges as one of its most pivotal characters. His journey sets off critical events that drive much of the series' drama, and his unique abilities provide insight into the mystical aspects of this world.\n\nBran's quest to understand his powers leads him on a path toward the Three-Eyed Raven. This journey is marked by significant moments where he uncovers secrets from both the past and present, hinting at his future importance in the unfolding story.",
+    "memorableMoments": [
+      "Demonstrating an early lesson of always listening to his mother, Bran unintentionally witnesses the Lannister twins in a compromising position, resulting in him being pushed out a window.",
+      "His latent magical abilities begin to surface as he connects with and eventually meets the Three-Eyed Raven.",
+      "In one of the series' pivotal moments, using his newfound powers, Bran inadvertently makes contact with the Night King."
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Sandor Clegane \"The Hound\"",
+    "actor": "Rory McCann",
+    "debut": "Season 1",
+    "imageUrl": "/images/sandor_clegane.jpg",
+    "description": "Despite his fearsome reputation as a dangerous fighter, Sandor 'The Hound' Clegane's journey from the shadows of his infamous brother Gregor to finding redemption captivates audiences. Initially serving as Joffrey Baratheon's guard, Sandor develops an unexpected empathy for those perceived as weak or underdog—qualities that manifest through his interactions with Sansa and Arya Stark. His transformation is a compelling narrative arc, skillfully portrayed by Rory McCann, who brings depth to the character's struggle between darkness and redemption.",
+    "memorableMoments": [
+      "The audience glimpses Sandor’s softer side when he offers brusque comfort to Sansa after Joffrey assaults her in Season 1’s finale.",
+      "His simple but memorable request for 'two chickens' showcases his no-nonsense personality.",
+      "His unexpected return in Season 6 is both surprising and heartwarming, marking one of the show's most impactful moments."
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Melisandre",
+    "actor": "Carice van Houten",
+    "debut": "Season 2",
+    "imageUrl": "/images/melisandre.jpg",
+    "description": "As a shadowbinder and priestess to Stannis Baratheon, Melisandre's powerful magic and unwavering faith in identifying the prophesied messiah significantly impact Westeros. Her actions—ranging from summoning a shadow demon to assassinate Renly Baratheon to attempting to resurrect Jon Snow—are driven by her belief in fulfilling ancient prophecies. Her journey is marked by profound realizations as she confronts the limitations and misinterpretations of her beliefs.",
+    "memorableMoments": [
+      "Melisandre's creation of a shadow demon to kill Renly Baratheon stands out as one of her most dramatic acts.",
+      "In a revealing moment, she sheds her magical disguise, unveiling herself as an ancient and weary woman.",
+      "Her pivotal role in resurrecting Jon Snow in Season 6 is hailed as one of the series' most memorable moments."
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Theon Greyjoy",
+    "actor": "Alfie Allen",
+    "debut": "Season 1",
+    "imageUrl": "/images/theon_greyjoy.jpg",
+    "description": "Raised as a ward under Ned Stark after his father's unsuccessful uprising, Theon Greyjoy always felt like an outsider in the Stark household. Despite being considered part of the family, he struggled with complex emotions toward the Starks. His deep-seated resentment and longing to claim his rightful place as the heir of the Iron Islands ultimately led him down a path of betrayal against those who raised him. Captured and brutally tortured by Ramsay Bolton following a failed rebellion, Theon was reduced to a broken individual known only as 'Reek.' Despite later being presented with an opportunity for redemption through aiding Sansa Stark's escape from Ramsay, he faltered. Now back with his sister Yara Greyjoy, it remains uncertain whether Theon can reclaim any sense of his former self and if he truly finds redemption in their quest to claim the Iron Throne.",
+    "memorableMoments": [
+      "Theon incurs the audience’s wrath when he betrays the Starks by seizing control over Winterfell.",
+      "He garners sympathy as he endures capture and relentless torment at Ramsay Bolton's hands for several seasons.",
+      "His journey toward redemption begins as he assists Sansa Stark in escaping from Ramsay’s cruelty."
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Margaery Tyrell",
+    "actor": "Natalie Dormer",
+    "debut": "Season 2",
+    "imageUrl": "/images/margaery_tyrell.jpg",
+    "description": "Margaery Tyrell is one of Game of Thrones' most captivating characters, known for her charm and strategic acumen. Her complexity lies in her ability to defy simple categorization; she oscillates between genuine kindness and calculated manipulation. Ambitious by nature and guided by the cunning wisdom of her grandmother Olenna, Margaery skillfully navigated the treacherous political landscape of King’s Landing. While some may question whether her concern for the less fortunate was sincere or merely a tactic to gain favor, her interactions with Tommen suggest a deeper layer of compassion, though always aligned with her overarching goals. Ultimately, Margaery's ability to devise and implement various strategies kept audiences engaged as she maneuvered through the challenges before her.",
+    "memorableMoments": [
+      "Margaery demonstrates her political acumen by asserting herself not merely as a 'queen,' but as 'the queen.'",
+      "Her rivalry with Cersei takes a dramatic turn when she finds herself atoning for her actions under the High Sparrow's influence.",
+      "She remains endearing to fans for her thoughtful gesture of gifting Tommen Ser Pounce."
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Bronn",
+    "actor": "Jerome Flynn",
+    "debut": "Season 1",
+    "imageUrl": "/images/bronn.jpg",
+    "description": "Bronn stands out among Game of Thrones characters as an embodiment of integrity and straightforwardness, contrasting sharply with the often duplicitous nobility. As one of the few commoners to play a significant role in Westeros’ political intrigues, his unvarnished honesty offers a refreshing change from the usual scheming. Bronn’s journey begins as a sellsword who earns Tyrion Lannister's trust by defending him at the Eyrie, forming an enduring friendship. Later, he becomes Jaime Lannister's trusted companion and training partner, assisting the knight in adapting to life without his sword hand.",
+    "memorableMoments": [
+      "Bronn solidifies his bond with Tyrion by fighting for him at the Eyrie.",
+      "He becomes a vital ally to Jaime Lannister, helping the knight train in swordsmanship despite being handless.",
+      "Throughout the series, Bronn's presence is consistently delightful due to Flynn’s adept comedic timing."
+    ]
   }
+
+
+
 ]
