@@ -271,7 +271,91 @@
       "He becomes a vital ally to Jaime Lannister, helping the knight train in swordsmanship despite being handless.",
       "Throughout the series, Bronn's presence is consistently delightful due to Flynn’s adept comedic timing."
     ]
+  },
+  {
+    "id": 22,
+    "name": "Stannis Baratheon",
+    "actor": "Stephen Dillane",
+    "debut": "Season 2",
+    "imageUrl": "/images/stannis_baratheon.jpg",
+    "description": "A complex figure in Game of Thrones, Stannis Baratheon is both revered and reviled. As King Robert’s younger brother, he was arguably the rightful heir to the throne, embodying a sense of duty and diligence that could have made him an effective ruler. However, his reign was overshadowed by his allegiance to Melisandre, a Red Priestess whose influence led Stannis into morally questionable actions under the guise of fulfilling prophecies through Lord of Light blood magic. While he often seemed like the lesser evil amid the chaos of power struggles in Westeros, there were moments when his decisions veered into cruelty, such as the harrowing decision to sacrifice his daughter.",
+    "memorableMoments": [
+      "Succumbing to Melisandre’s influence, Stannis consummates their relationship on the Painted Table, resulting in her impregnation with a shadow creature.",
+      "In a poignant moment, Stannis recounts to Shireen why he chose to keep her alive, ending with a reluctant embrace that underscores his internal conflict.",
+      "The dramatic beheading by Brienne leaves viewers questioning his fate, only for it to be revealed that he did not survive the encounter."
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Jorah Mormont",
+    "actor": "Iain Glen",
+    "debut": "Season 1",
+    "imageUrl": "/images/jorah_mormont.jpg",
+    "description": "Jorah Mormont is a multifaceted character in Game of Thrones, embodying the roles of exile, spy, servant, and soldier. Initially introduced as Varys’s spy masquerading as Daenerys Targaryen's mentor, Jorah quickly develops a deep admiration—and ultimately love—for Khaleesi. Despite his affection, Daenerys does not reciprocate his feelings, leading to her banishing him once he is caught in deceitful activities. Driven by the desire for redemption, Jorah goes to great lengths to prove himself worthy of Dany's trust. He becomes a complex figure—loyal and wise yet entangled in betrayal against the woman he loves. Adding to his tragic arc, Jorah contracts greyscale, an incurable disease that marks him for death.",
+    "memorableMoments": [
+      "Despite beginning as Varys's spy, Jorah demonstrates true loyalty to Daenerys by thwarting an assassination attempt on her life.",
+      "His banishment in Season 4 marks a crucial turning point for Jorah’s character development and quest for redemption.",
+      "In Season 5, while traveling with Tyrion Lannister, Jorah contracts greyscale, signaling the onset of his tragic downfall."
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Olenna Tyrell",
+    "actor": "Diana Rigg",
+    "debut": "Season 3",
+    "imageUrl": "/images/olenna_tyrell.jpg",
+    "description": "Known as the 'Queen of Thorns,' Olenna Tyrell is renowned for her sharp wit and no-nonsense demeanor. As the de facto leader of House Tyrell, she expertly maneuvers behind the scenes to advance the family's interests, often outsmarting those around her with her strategic acumen and incisive commentary. Olenna’s influence extends far beyond quiet conversations in garden paths or dining rooms; her skillfully chosen words can be as impactful as any military confrontation. She stands out through her exchanges with formidable figures like Tywin Lannister, Cersei Lannister, and the High Sparrow, showcasing her ability to leverage her economic power to assert dominance.",
+    "memorableMoments": [
+      "From their first encounter, Olenna immediately sets herself apart with candid and impactful remarks, becoming an integral part of Westeros's narrative.",
+      "Her verbal sparring match with Tywin Lannister stands out as a highlight, emphasizing her formidable presence and intelligence.",
+      "Despite the demise of many Tyrells, Olenna remains undeterred. Her alliance with Ellaria Sand and the Sand Snakes signals thrilling schemes for retribution."
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Ramsay Bolton",
+    "actor": "Iwan Rheon",
+    "debut": "Season 3",
+    "imageUrl": "/images/ramsay_bolton.jpg",
+    "description": "Ramsay Bolton epitomizes malevolence, embodying cruelty and sadism. His intelligence is wielded for nefarious purposes, making him one of the most chilling antagonists in Game of Thrones. The show delves into his complexity by examining his tumultuous relationship with his father and hinting at a capacity for love through his interactions with Myranda. Despite these layers, Ramsay remains a stark portrayal of human depravity, shaped by his harsh environment into a figure of terror. Iwan Rheon's performance adds depth to Ramsay, transforming him from a one-dimensional villain into a deeply unsettling character rooted in reality.",
+    "memorableMoments": [
+      "Ramsay's cruel taunting of Theon Greyjoy with a sausage is a stark display of his sadistic nature.",
+      "His elevation to legitimate heir on the hills near Winterfell marks a significant power shift.",
+      "In 'The Battle of the Bastards,' Ramsay nearly topples Jon Snow’s army, showcasing his formidable military prowess."
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Roose Bolton",
+    "actor": "Michael McElhatton",
+    "debut": "Season 2",
+    "imageUrl": "/images/roose_bolton.jpg",
+    "description": "Roose Bolton stands out among House Stark's betrayers as both cunning and somewhat pragmatic. As the mastermind behind the infamous Red Wedding, Roose delivered a chilling line with his phrase, ‘The Lannisters send their regards,’ while killing Robb Stark. He claimed Winterfell and the title of Warden of the North for himself but ultimately fell prey to his own son, Ramsay’s, madness. Though a significant antagonist in the series, Roose is portrayed more as an opportunist than pure evil. His complex relationship with Ramsay—who he initially turned a blind eye towards despite the boy's evident cruelty—is central to his character arc.",
+    "memorableMoments": [
+      "The unforgettable line ‘The Lannisters send their regards’ was delivered by Roose as he plunged a knife into Robb Stark’s heart during the Red Wedding.",
+      "In the books, Roose is known for leeching himself, earning him the moniker 'Leech Lord.'",
+      "Despite Ramsay being his bastard son, Roose legitimized him in an emotionally charged moment."
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Robb Stark",
+    "actor": "Richard Madden",
+    "debut": "Season 1",
+    "imageUrl": "/images/robb_stark.jpg",
+    "description": "The eldest son of Ned Stark, Robb was poised to avenge his father's betrayal and murder. However, in the treacherous world of Westeros, his quest for redemption ended abruptly with the massacre at the Red Wedding. Known for his honor, Robb’s downfall began when he executed Lord Karstark for war crimes, leading to dissent among his followers that culminated in mutiny. Despite his noble intentions and leadership as 'King in the North,' it was ultimately his own oath-breaking that led to his tragic demise.",
+    "memorableMoments": [
+      "In a rare tender moment from the series premiere, Robb discovers direwolf pups with his siblings and names his Grey Wind.",
+      "He is proudly hailed as the ‘King in the North’ by the lords who once pledged loyalty to his father, alongside Theon Greyjoy’s proclamation.",
+      "During the Red Wedding, Robb is paralyzed by shock and grief at the sight of his murdered wife Talisa, unable to fight back or flee."
+    ]
   }
+
+
+
+
+
+
 
 
 
