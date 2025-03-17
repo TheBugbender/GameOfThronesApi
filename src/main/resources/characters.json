@@ -349,12 +349,84 @@
       "He is proudly hailed as the ‘King in the North’ by the lords who once pledged loyalty to his father, alongside Theon Greyjoy’s proclamation.",
       "During the Red Wedding, Robb is paralyzed by shock and grief at the sight of his murdered wife Talisa, unable to fight back or flee."
     ]
+  },
+  {
+    "id": 28,
+    "name": "Oberyn Martell",
+    "actor": "Pedro Pascal",
+    "debut": "Season 4",
+    "imageUrl": "/images/oberyn_martell.jpg",
+    "description": "Princely and passionate, Oberyn Martell arrives in King’s Landing with a burning resentment towards Tywin Lannister for the death of his sister Elia during the sacking of King’s Landing. His introduction marks the first formal glimpse into Dorne's culture; he is both logical and fervent, restrained yet perilous. Though his time on screen was brief, Oberyn became iconic for his brave but ill-fated defense of Tyrion Lannister in a trial by combat against Ser Gregor Clegane.",
+    "memorableMoments": [
+      "\"I will be your champion.\" Oberyn agrees to fight Ser Gregor for an all-but condemned Tyrion.",
+      "The Red Viper kicked off his visit to King's Landing with quite the memorable orgy.",
+      "The Mountain vs. The Viper! So close, but then....POP!"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Walder Frey",
+    "actor": "David Bradley",
+    "debut": "Season 1",
+    "imageUrl": "/images/walder_frey.jpg",
+    "description": "A detestable lord of the Riverlands, Walder Frey is despised for his craven nature and petty scheming. Despite this, he becomes pivotal in one of the series' most shocking events: the Red Wedding. Known for his numerous marriages and progeny, whose names even he barely remembers, Frey betrays Robb Stark by joining forces with the Lannisters after being slighted by a broken marriage promise.",
+    "memorableMoments": [
+      "During the Red Wedding, Catelyn Stark threatens Walder’s wife, but her reassurance of finding another wife seals the Starks' fate.",
+      "The morning after the massacre, he raises a toast to Roose Bolton with the chilling words, \"Here's to the young wolf!\" followed by a haunting howl.",
+      "Arya Stark's grim retribution: discovering his sons baked into a meat pie."
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Samwell Tarly",
+    "actor": "John Bradley-West",
+    "debut": "Season 1",
+    "imageUrl": "/images/samwell_tarly.jpg",
+    "description": "Despite being banished to the Wall by his overzealous father, Samwell Tarly finds solace and purpose among the Night's Watch. Known for his gentle spirit and love of books, he becomes an invaluable asset at Castle Black, taking on the role of scholar among warriors. As Jon Snow’s best friend, Sam endures numerous trials, from battles with White Walkers to diplomatic missions across Westeros, all while pursuing knowledge in places like Oldtown.",
+    "memorableMoments": [
+      "In a daring confrontation, Sam disintegrates a formidable White Walker by stabbing it in the back with Dragonglass.",
+      "He advocates for Jon Snow’s leadership, nominating him as Lord Commander despite his youth: 'He may be young, but he's the commander we turned to when the night was darkest.'",
+      "Breaking his vows of celibacy, Sam and Gilly finally consummate their relationship, marking a significant personal milestone."
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Ygritte",
+    "actor": "Rose Leslie",
+    "debut": "Season 2",
+    "imageUrl": "/images/ygritte.jpg",
+    "description": "A fierce and resourceful Wildling warrior, Ygritte captivates Jon Snow with her intelligence and boldness during his time undercover within Mance Rayder's Free Folk army. Their complex relationship creates tension when Jon’s true allegiance as a member of the Night’s Watch is revealed. Ygritte remains unforgettable for her fiery spirit, deep connection with Jon, and poignant final moments at Castle Black.",
+    "memorableMoments": [
+      "Ygritte and Jon share intimate moments in the secluded hot springs cave, highlighting their unexpected bond.",
+      "Despite her love for him, Ygritte reluctantly shoots three arrows at an unwilling Jon as he tries to return to his Night’s Watch duties.",
+      "In her last breaths during a fierce battle, she whispers to Jon, 'You know nothing, Jon Snow…', echoing one of the series' most iconic lines and underscoring their complicated relationship."
+    ]
+  },
+  {
+    "id": 32,
+    "name": "The Night King",
+    "actor": "Richard Brake",
+    "debut": "Season 4",
+    "imageUrl": "/images/night_king.jpg",
+    "description": "Created by the Children of the Forest as a formidable protector against the First Men, The Night King emerges as the chilling leader of the White Walkers and their undead army. His mysterious powers, including his ability to create White Walkers with a touch, present an unprecedented threat that eclipses all other conflicts in Westeros. The Night King's presence ushers in a long-anticipated winter, embodying the ultimate evil against which humanity must unite.",
+    "memorableMoments": [
+      "In a chilling act of power, The Night King touches Craster’s infant son, initiating his transformation into a White Walker.",
+      "He confronts Jon Snow with an intense staredown at Hardhome, a pivotal moment underscoring his relentless pursuit.",
+      "During an encounter within Bran’s vision, The Night King marks the psychic Stark by grasping his arm, hinting at deeper plans and connections."
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Ser Gregor Clegane",
+    "actor": "Multiple Actors",
+    "debut": "Season 1",
+    "imageUrl": "/images/ser_gregor_clegane.jpg",
+    "description": "Known as 'The Mountain' due to his immense size and strength, Ser Gregor Clegane is notorious across Westeros for his brutality and unwavering loyalty to House Lannister. His menacing presence is often a harbinger of violence and despair, whether through his merciless acts at Harrenhal or his role in executing Cersei’s ruthless commands. Perhaps most infamous for the gruesome beheading of Oberyn Martell, Gregor epitomizes a relentless force of destruction.",
+    "memorableMoments": [
+      "Following his notorious display of petulance by decapitating his own horse, Gregor engages in a fierce duel with his brother Sandor, which is abruptly ended by King Robert.",
+      "In a brutal showdown at the Red Wedding, he mercilessly defeats Oberyn Martell by crushing the 'Viper’s' face, demonstrating his fearsome combat prowess."
+    ]
   }
-
-
-
-
-
 
 
 
