@@ -426,8 +426,95 @@
       "Following his notorious display of petulance by decapitating his own horse, Gregor engages in a fierce duel with his brother Sandor, which is abruptly ended by King Robert.",
       "In a brutal showdown at the Red Wedding, he mercilessly defeats Oberyn Martell by crushing the 'Viper’s' face, demonstrating his fearsome combat prowess."
     ]
+  },
+  {
+    "id": 34,
+    "name": "Robert Baratheon",
+    "actor": "Mark Addy",
+    "debut": "Season 1",
+    "imageUrl": "/images/robert_baratheon.jpg",
+    "description": "A central figure in the early episodes of 'Game of Thrones,' King Robert plays a pivotal role in Westeros’s history. As an old friend of Eddard Stark, he spearheaded the rebellion against the tyrannical Mad King Aerys II, ultimately leading to Robert's ascent to the throne after marrying Lyanna Stark. However, his rule is marked by neglect and indulgence, which contributes significantly to the political turmoil that defines the series.",
+    "memorableMoments": [
+      "In a poignant moment at Winterfell’s Stark crypt, Robert mourns beside the statue of his beloved wife, Lyanna, away from the prying eyes of Queen Cersei.",
+      "During a rare private exchange with Cersei, he confesses how no amount of power could fill the void left by Lyanna’s death, showcasing his vulnerability and regret.",
+      "On his deathbed, Robert entrusts Eddard Stark as 'Lord Regent' and attempts to revoke the assassination orders on Daenerys, highlighting his late efforts to amend past mistakes."
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Gilly",
+    "actor": "Hannah Murray",
+    "debut": "Season 2",
+    "imageUrl": "/images/gilly.jpg",
+    "description": "Introduced as one of Craster's daughter-wives in the harsh world north of the Wall, Gilly’s life changes dramatically upon meeting Samwell Tarly. Initially pregnant with Craster’s son, she gives birth to her child amidst turmoil and flees with Sam during a Night’s Watch mutiny after witnessing him slay a White Walker with Dragonglass.",
+    "memorableMoments": [
+      "Recognizing Samwell's ability to glean knowledge from written words, she exclaims he is akin to a wizard.",
+      "Amidst danger posed by the Night’s Watch, Gilly provides care for the wounded Sam and becomes his first intimate partner after he intervenes on her behalf.",
+      "Defying her fears, Gilly bravely stands up for Sam in front of his disapproving family, revealing his heroic deeds against formidable foes like a Thenn and a White Walker."
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Tormund Giantsbane",
+    "actor": "Kristofer Hivju",
+    "debut": "Season 3",
+    "imageUrl": "/images/tormund_giantsbane.jpg",
+    "description": "A formidable Wildling warrior, Tormund is known for his immense size and large ego. His journey with Jon Snow evolves from bonding over Ygritte to becoming the leader of the Free Folk after Mance Rayder’s execution. He forms a truce with Jon to unite against the White Walkers, surviving key battles like the Battle for the Wall and Hardhome. Now, he shows interest in Lady Brienne.",
+    "memorableMoments": [
+      "An iconic scene features Tormund scaling the Wall with determination using a pickaxe.",
+      "At Hardhome, after being labeled a traitor, Tormund decisively defeats the 'Lord of Bones.'",
+      "In Season 6, his burgeoning attraction to Brienne adds an intriguing dynamic to their interactions."
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Grey Worm",
+    "actor": "Jacob Anderson",
+    "debut": "Season 3",
+    "imageUrl": "/images/grey_worm.jpg",
+    "description": "Once an enslaved warrior-eunuch, Grey Worm becomes one of Daenerys Targaryen’s most trusted advisors and leader of the Unsullied. Known for his stoic demeanor, he surprises fans by developing a deep connection with Missandei. His unwavering loyalty and combat prowess make him indispensable in Dany's forces.",
+    "memorableMoments": [
+      "Despite Daenerys ordering the Unsullied to abandon their slave names, Grey Worm chooses to keep his as a testament to his past and the freedom she granted.",
+      "During recovery from injuries in an ambush, he confesses to Missandei that he feared they might never see each other again."
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Yara Greyjoy",
+    "actor": "Gemma Whelan",
+    "debut": "Season 2",
+    "imageUrl": "/images/yara_greyjoy.jpg",
+    "description": "After her brothers' tragic deaths during Balon Greyjoy's failed rebellion, Yara steps into a leadership role. Known for her naval prowess and sharp wit, she initially harbors resentment towards Theon but eventually reveals loyalty toward him. Joining forces with Daenerys Targaryen, she seeks to become the rightful ruler of the Iron Isles.",
+    "memorableMoments": [
+      "During their first encounter post-separation, Theon fails to recognize Yara and attempts an awkward advance. Yara allows this moment to play out, using it to humiliate him.",
+      "In a daring rescue attempt for Theon at the Dreadfort, she discovers him broken and cowering in his cage, prompting her poignant remark, 'My brother's dead,' before retreating.",
+      "At their initial meeting with Daenerys in Meereen, subtle exchanges between Yara and Dany spark intrigue and speculation about potential alliances."
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Podrick Payne",
+    "actor": "Daniel Portman",
+    "debut": "Season 2",
+    "imageUrl": "/images/podrick_payne.jpg",
+    "description": "Starting as a humble squire to Tyrion Lannister, Podrick proves his worth through loyalty and bravery. Known for his dry humor and steady presence, he navigates Westeros with an unexpected skillset that endears him to both allies and foes. From crucial rescues in battle to navigating complex social situations, Podrick evolves into a key figure who provides comic relief amidst the show's darker themes.",
+    "memorableMoments": [
+      "During the Battle of the Blackwater, Podrick heroically thwarts Ser Mandon Moore’s assassination attempt on Tyrion with a well-placed spear.",
+      "In an amusing encounter at a local brothel, Podrick shares that his 'abilities' were so appreciated that the women declined to charge him, leading to a memorable exchange between him, Tyrion, and Bronn."
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Meera Reed",
+    "actor": "Ellie Kendrick",
+    "debut": "Season 3",
+    "imageUrl": "/images/meera_reed.jpg",
+    "description": "Introduced as a steadfast companion to her younger brother Jojen and Bran Stark, Meera's primary role is to protect Jojen and guide them northward. Lacking supernatural abilities herself, she relies on strength, resourcefulness, and survival skills to navigate the perils beyond the Wall. Her unwavering loyalty and fierce determination make her an invaluable ally in their quest to meet the Three-Eyed Raven.",
+    "memorableMoments": [
+      "Demonstrating her formidable skills, Meera nearly engages in a playful altercation with Osha over who can skin a rabbit more efficiently.",
+      "Outside of the show, Meera has become central to a popular fan theory concerning the Tower of Joy, sparking curiosity and speculation among fans."
+    ]
   }
-
 
 
 
