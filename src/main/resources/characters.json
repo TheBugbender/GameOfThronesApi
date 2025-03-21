@@ -514,7 +514,75 @@
       "Demonstrating her formidable skills, Meera nearly engages in a playful altercation with Osha over who can skin a rabbit more efficiently.",
       "Outside of the show, Meera has become central to a popular fan theory concerning the Tower of Joy, sparking curiosity and speculation among fans."
     ]
+  },
+  {
+    "id": 41,
+    "name": "Shireen Baratheon",
+    "actor": "Kerry Ingram",
+    "debut": "Season 3",
+    "imageUrl": "/images/shireen_baratheon.jpg",
+    "description": "Shireen Baratheon is portrayed as a poignant symbol of innocence caught in the machinations of power and ambition. As Stannis's daughter, her life was overshadowed by his relentless quest for the Iron Throne. Despite being afflicted with Greyscale, Shireen embodies kindness and intelligence, forging a meaningful friendship with Ser Davos to whom she taught reading. Her tragic end at her father’s hands underscores the devastating cost of his obsession.",
+    "memorableMoments": [
+      "Defying Stannis's orders, Shireen sneaks out to visit her friend Ser Davos in prison, demonstrating her courage and loyalty.",
+      "She leaves a lasting impact on Game of Thrones by teaching Davos to read, highlighting her intelligence and kindness.",
+      "In one of the show’s most heart-wrenching scenes, Shireen pleads for her parents' help as she burns at the stake, only to face their silence, revealing the depth of Stannis's obsession."
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Renly Baratheon",
+    "actor": "Gethin Anthony",
+    "debut": "Season 1",
+    "imageUrl": "/images/renly_baratheon.jpg",
+    "description": "As the youngest Baratheon brother, Renly emerges as a charismatic yet underappreciated contender for the Iron Throne following his elder brother Robert's death. Known for his charm and liberal views on love, he quickly becomes central in the political turmoil of King’s Landing. His unexpected assassination through dark magic orchestrated by Melisandre introduces one of the series' most memorable supernatural elements. Renly is also notable for bringing significant characters like Brienne of Tarth and Margaery Tyrell into prominence.",
+    "memorableMoments": [
+      "In a defining moment, Loras challenges Renly’s aversion to blood as they witness his own cut bleeding during an intimate encounter.",
+      "Displaying his faith in strength and honor, Renly instantly accepts Brienne's offer to serve as one of his personal protectors with the words, 'Done. Rise, Brienne of the Kingsguard.'"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Jaqen H’ghar",
+    "actor": "Tom Wlaschiha",
+    "debut": "Season 1",
+    "imageUrl": "/images/jaqen_hghar.jpg",
+    "description": "An enigmatic figure associated with the Faceless Men, an organization dedicated to anonymity and assassination. His true identity remains shrouded in mystery, possibly serving as a pseudonym for many members. Known for his calm demeanor and cryptic advice, Jaqen introduces Arya Stark to the world of covert operations, teaching her essential skills needed to survive in Westeros. His influence propels Arya on a transformative journey to Braavos, where she learns to become 'no one.'",
+    "memorableMoments": [
+      "When approached by Arya for guidance as an assassin, Jaqen entrusts her with a coin and instructions to travel to Braavos.",
+      "After warding off threats in Braavos, he reveals himself to Arya, explaining the importance of becoming 'no one' to achieve true power.",
+      "Through his teachings, audiences are introduced to the powerful phrases ‘Valar Morghulis’ (All men must die) and ‘Valar Dohaeris’ (All men must serve)."
+    ]
+  },
+  {
+    "id": 44,
+    "name": "High Sparrow",
+    "actor": "Jonathan Pryce",
+    "debut": "Season 5",
+    "imageUrl": "/images/high_sparrow.jpg",
+    "description": "The charismatic leader of the Faith Militant, High Sparrow becomes a formidable force in King's Landing during Seasons 5 and 6. Initially supported by Cersei Lannister to undermine Margaery Tyrell, his influence quickly surpasses her control, leading to widespread chaos throughout the city. While he often presents himself as humble and committed to justice, High Sparrow’s actions reveal a cunning strategist with profound religious fervor. His power struggle with Cersei culminates in dramatic consequences for both their fates.",
+    "memorableMoments": [
+      "In a tense confrontation, Lady Olenna Tyrell demands the release of her grandchildren, only to be firmly rebuffed by High Sparrow: 'You don't give commands here, Lady Olenna.'",
+      "The shock and realization on his face just moments before being disintegrated by Cersei’s wildfire attack stand as one of the series’ most iconic scenes."
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Ellaria Sand",
+    "actor": "Indira Varma",
+    "debut": "Season 4",
+    "imageUrl": "/images/ellaria_sand.jpg",
+    "description": "Emerging as a formidable and vengeful figure in Dorne, driven by her deep-seated desire to avenge the murder of her lover, Oberyn Martell. Her impassioned cry for justice resonates throughout the region, symbolizing growing dissent against Lannister rule. When Prince Doran declines to retaliate directly, Ellaria orchestrates a coup with her loyal Sand Snakes, seizing control and posing a significant threat to King's Landing. Known for her sharp intelligence and ruthless tactics, she becomes a crucial player in Westeros' intricate power struggle.",
+    "memorableMoments": [
+      "Her heart-wrenching scream upon witnessing Oberyn’s brutal death at the hands of Gregor Clegane epitomizes her quest for vengeance.",
+      "In a moment of twisted mercy, Ellaria offers Olenna Tyrell 'her heart's desire': Vengeance on Tyrion Lannister.",
+      "Despite limited screen time, Ellaria is poised to play a pivotal role in the downfall of the Lannisters, highlighting her as a key figure in the series' final acts."
+    ]
   }
+
+
+
+
+
 
 
 
