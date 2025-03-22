@@ -577,6 +577,71 @@
       "In a moment of twisted mercy, Ellaria offers Olenna Tyrell 'her heart's desire': Vengeance on Tyrion Lannister.",
       "Despite limited screen time, Ellaria is poised to play a pivotal role in the downfall of the Lannisters, highlighting her as a key figure in the series' final acts."
     ]
+  },
+  {
+    "id": 46,
+    "name": "Daario Naharis",
+    "actor": "Ed Skrein/Michiel Huisman",
+    "debut": "Season 3",
+    "imageUrl": "/images/daario_naharis.jpg",
+    "description": "Introduced as a formidable and charismatic Second Sons mercenary, Daario quickly captures the attention of Daenerys Targaryen during the swift conquest of Yunkai. Initially inciting jealousy in Jorah Mormont, he swiftly becomes one of Daenerys’ most trusted allies and lovers. His loyalty extends beyond romantic involvement; he stands by her both in political matters and personal trials. Despite their deep connection, like Drogo before him, Daario is a love that Daenerys ultimately must leave behind as she pursues her destiny.",
+    "memorableMoments": [
+      "Demonstrating his unwavering loyalty immediately after interrupting Daenerys’ bath by presenting the heads of his defeated captains on her floor.",
+      "Defeating the Champion of Meereen in less than 10 seconds, first incapacitating the horse and then delivering a swift, decisive blow to the champion.",
+      "On a rescue mission, Daario humorously addresses the tension with Jorah Mormont by acknowledging that he must indeed be jealous."
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Loras Tyrell",
+    "actor": "Finn Jones",
+    "debut": "Season 1",
+    "imageUrl": "/images/loras_tyrell.jpg",
+    "description": "Introduced as the charismatic knight of House Tyrell, Ser Loras is known for his striking appearance and unwavering loyalty. Initially serving under Renly Baratheon, he becomes instrumental in persuading him to claim the throne. His sexuality becomes pivotal when tensions rise with the Lannisters; Cersei's animosity towards Margaery leads to his imprisonment and downfall. Despite facing significant adversity, Ser Loras remains an enduring symbol of both loyalty and personal integrity.",
+    "memorableMoments": [
+      "Persuading Renly Baratheon to pursue the throne by shaving his chest during a private moment, convincing him that he should rule before Robert’s sons or Stannis.",
+      "During a tense confrontation with Jaime Lannister, responding sharply: 'And neither will you,' when Jaime dismisses the possibility of marrying Cersei.",
+      "Margaery Tyrell's hopes are crushed upon visiting Loras in his prison cell, finding him in a fragile and defeated state due to the Faith Militant’s harsh treatment."
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Khal Drogo",
+    "actor": "Jason Momoa",
+    "debut": "Season 1",
+    "imageUrl": "/images/khal_drogo.jpg",
+    "description": "Introduced as a fearsome Dothraki warlord, Khal Drogo forms an unexpected bond with Daenerys Targaryen when they marry under a pact orchestrated by Viserys Targaryen and Illyrio Mopatis. This union transforms into a profound partnership marked by mutual respect and love. Drogo's influence profoundly impacts Daenerys’ ambitions, shifting her focus toward ruling Westeros rather than supporting her brother’s claims. Tragically, Drogo’s life is cut short due to a misjudged healing attempt, leaving Daenerys to navigate the aftermath without him. His legacy endures as a pivotal figure in her journey of empowerment and leadership.",
+    "memorableMoments": [
+      "Demonstrating his dark humor by giving Viserys Targaryen his 'golden crown,' scalding and killing him with melted gold.",
+      "Defending Daenerys’ honor from an insolent warrior, dramatically ripping out the man’s tongue through his throat.",
+      "In a poignant vision within the House of the Undying, Daenerys envisions Drogo alongside their lost son, Rhaego."
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Hodor",
+    "actor": "Kristian Nairn",
+    "debut": "Season 1",
+    "imageUrl": "/images/hodor.jpg",
+    "description": "Introduced as a gentle yet simple-minded giant serving House Stark, Hodor is known for his endearing repetition of only one word—his name. His unwavering loyalty makes him an essential member of Bran Stark’s party, and he becomes deeply beloved by viewers. Hodor's tragic death occurs during the Battle of Hardhome when he heroically fulfills a promise to 'Hold the door,' sacrificing himself in the process. This poignant moment reveals the supernatural connection between his past and present self, as influenced by Bran’s time-traveling abilities.",
+    "memorableMoments": [
+      "Despite his gentle nature, Hodor becomes formidable when his body is possessed by Bran Stark, using this power to fight against Night’s Watch mutineers.",
+      "It's revealed that Hodor's real name was Wylis before a fateful encounter with Bran resulted in him losing all other memories and words, leaving only 'Hodor.'",
+      "His name and condition originate from a traumatic event where Bran, inadvertently visiting his future self, witnesses the young Wylis experiencing a mind-breaking moment—resulting in Bran's exclamation: 'Hold the door.'"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Shae",
+    "actor": "Sibel Kekilli",
+    "debut": "Season 1",
+    "imageUrl": "/images/shae.jpg",
+    "description": "Shae is introduced as an independent and alluring prostitute who forms a deep connection with Tyrion Lannister following their meeting at the Battle of the Green Fork. This relationship blossoms into love, leading her to accompany him to King's Landing during his tenure as Hand of the King. However, Shae’s position in Tyrion's life becomes increasingly precarious due to his marriage to Sansa Stark and the need to conceal their affair. Ultimately, her testimony at Tyrion’s trial serves as a catalyst for his dramatic departure from Westeros, highlighting themes of love, betrayal, and survival.",
+    "memorableMoments": [
+      "Shae captivates Tyrion with her mysterious demeanor during a truth-telling drinking game with Bronn, leaving him intrigued by her enigmatic nature.",
+      "Following the Battle of the Blackwater, she remains unfazed when confronted with the extent of Tyrion's facial scarring, showcasing her acceptance and devotion to him.",
+      "During Tyrion’s trial, Shae betrays him by denying their relationship and falsely claiming that Tyrion plotted to kill Joffrey Baratheon, a pivotal moment leading to his downfall."
+    ]
   }
 
 
