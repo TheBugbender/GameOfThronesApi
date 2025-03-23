@@ -642,7 +642,86 @@
       "Following the Battle of the Blackwater, she remains unfazed when confronted with the extent of Tyrion's facial scarring, showcasing her acceptance and devotion to him.",
       "During Tyrion’s trial, Shae betrays him by denying their relationship and falsely claiming that Tyrion plotted to kill Joffrey Baratheon, a pivotal moment leading to his downfall."
     ]
+  },
+  {
+    "id": 51,
+    "name": "Brynden Tully \"The Blackfish\"",
+    "actor": "Clive Russell",
+    "debut": "Season 3",
+    "imageUrl": "/images/the_blackfish.jpg",
+    "description": "Known as 'The Blackfish,' Brynden Tully is introduced as Catelyn Stark's formidable uncle, characterized by his grizzled and taciturn demeanor. Initially serving as an advisor to Robb Stark, he emerges from the Red Wedding alive and returns in Season 6 with a determination to reclaim Riverrun for House Tully. As one of the few surviving old-timers who remains staunchly opposed to the Lannisters, Brynden ultimately meets his end off-screen during a final stand against their forces, solidifying his legacy as a resilient defender of his house.",
+    "memorableMoments": [
+      "He steps in to replace his nephew Edmure after successfully shooting a flaming arrow at Lord Hoster Tully's funeral—a feat that earns him the respect of those present.",
+      "Brynden notably avoids death at the Red Wedding due to a well-timed break outside the hall, showcasing his keen survival instincts.",
+      "Before making a final stand against Lannister and Frey forces, he assists Brienne of Tarth in escaping through a secret waterway, demonstrating his loyalty and strategic acumen."
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Thoros of Myr",
+    "actor": "Paul Kaye",
+    "debut": "Season 3",
+    "imageUrl": "/images/thoros_of_myr.jpg",
+    "description": "Introduced as a Red Priest with a distinctive and eccentric appearance, Thoros is known for his flaming sword. Initially tasked with converting King Robert Baratheon to the Lord of Light, he becomes notable for repeatedly resurrecting Beric Dondarrion during the War of the Five Kings. His unique abilities make him an integral figure within the Brotherhood Without Banners. In Season 6, he reappears as the group prepares to confront new threats in the North.",
+    "memorableMoments": [
+      "After Beric is slain by Sandor Clegane (the Hound), Thoros revives him for a sixth time using his mystical powers, showcasing his dedication and prowess as a Red Priest.",
+      "He plays a crucial role in explaining to Melisandre how Red Priests can resurrect the dead—a knowledge she later uses on Jon Snow, significantly impacting the series' plot."
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Jojen Reed",
+    "actor": "Thomas Brodie-Sangster",
+    "debut": "Season 3",
+    "imageUrl": "/images/jojen_reed.jpg",
+    "description": "Jojen Reed, alongside his sister Meera, joins the Stark cause at the onset of Season 3 as emissaries from the Neck region. Their mission is to escort Bran Stark beyond the Wall for training with the Three-Eyed Raven. As fellow 'Greenseers,' Jojen plays a crucial role in helping Bran comprehend and develop his burgeoning psychic abilities following his paralysis. Despite their fragile appearances, both siblings courageously confront the dark forces threatening Winterfell, ultimately sacrificing themselves to save Bran.",
+    "memorableMoments": [
+      "In a daring act of distraction, Jojen deceives turncoat Karl with the words: 'I saw your body burn. I saw the snow fall and bury your bones.' This ruse is pivotal in their escape from captivity.",
+      "Jojen is instrumental in guiding Bran toward his path of magical enlightenment by leading him to the Three-Eyed Raven."
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Missandei",
+    "actor": "Nathalie Emmanuel",
+    "debut": "Season 3",
+    "imageUrl": "/images/missandei.jpg",
+    "description": "Originally a slave of the Masters of Astapor, Missandei witnesses Daenerys Targaryen’s dramatic dragon-led conquest and becomes an integral member of her inner circle. Her linguistic prowess and steadfast loyalty make her a trusted advisor to Daenerys, who has promised to abolish slavery throughout her realm. Alongside Grey Worm, Missandei forms a significant bond within the Unsullied, characterized by their mutual respect and affection.",
+    "memorableMoments": [
+      "Following Daenerys’ declaration 'Valar Morghulis' ('All men must die'), Missandei adds an essential perspective with her retort 'Valar Dohaeris' ('All men must serve'), highlighting themes of freedom and servitude.",
+      "Her first comedic attempt, which she shares with Grey Worm, is humorously critiqued as the worst joke he’s ever heard—an endearing moment that showcases their camaraderie."
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Beric Dondarrion",
+    "actor": "David Michael Scott / Richard Dormer",
+    "debut": "Season 1",
+    "imageUrl": "/images/beric_dondarrion.jpg",
+    "description": "Beric Dondarrion makes his first appearance in Season 1, initially played by a different actor. He later reappears significantly in Season 3 as the resilient leader of the Brotherhood Without Banners—a neutral faction operating in the Riverlands. Renowned for his repeated resurrections, Beric becomes central to the exploration of supernatural themes related to the Lord of Light's power over life and death. His frequent returns from death inspire Melisandre’s successful resurrection of Jon Snow, highlighting a key plot device within the series.",
+    "memorableMoments": [
+      "One of the most iconic images is Beric wielding a flaming sword during his battle with Sandor Clegane (the Hound), showcasing both his bravery and otherworldly powers.",
+      "Despite identifying as a champion for justice, Beric finds himself on Arya Stark’s 'list,' underscoring the complex moral landscape of Westeros."
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Edmure Tully",
+    "actor": "Tobias Menzies",
+    "debut": "Season 3",
+    "imageUrl": "/images/edmure_tully.jpg",
+    "description": "Edmure Tully, Catelyn Stark’s less formidable brother and the head of House Tully, is initially noted for his ill-fated attempts to shoot a flaming arrow at his father's funeral barge. Remarkably, he survives the infamous Red Wedding—a twist in the series that leaves audiences wondering about his fate. It is only later revealed that Edmure was spared as part of Roose Bolton’s strategic plans during the War of the Five Kings. Despite being perceived as weak-willed and often overshadowed by his uncle Blackfish, Edmure becomes a crucial pawn in Jaime Lannister's scheme to reclaim Riverrun, showcasing how he navigates political machinations in Westeros.",
+    "memorableMoments": [
+      "His desperate attempts with the flaming arrows at his father Hoster Tully’s funeral barge are etched as dramatic moments of failure and foreshadowing.",
+      "The poignant image of Edmure being led to his wedding night chamber, just before the Red Wedding turns blood-red, remains one of the series' most shocking reveals."
+    ]
   }
+
+
+
+
+
+
 
 
 
