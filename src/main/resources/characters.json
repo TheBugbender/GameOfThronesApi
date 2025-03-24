@@ -715,6 +715,93 @@
       "His desperate attempts with the flaming arrows at his father Hoster Tully’s funeral barge are etched as dramatic moments of failure and foreshadowing.",
       "The poignant image of Edmure being led to his wedding night chamber, just before the Red Wedding turns blood-red, remains one of the series' most shocking reveals."
     ]
+  },
+  {
+    "id": 57,
+    "name": "Barristan Selmy",
+    "actor": "Ian McElhinney",
+    "debut": "Season 1",
+    "imageUrl": "/images/barristan_selmy.jpg",
+    "description": "Renowned as one of the greatest knights in Westeros, Ser Barristan Selmy is dismissed from his position as a member of the Kingsguard by King Joffrey—under Cersei's influence—due to perceived disloyalty and age. This dismissal propels him westward, where he pledges allegiance to Daenerys Targaryen. In her service, he plays a crucial role in guiding and protecting her, even confronting former allies like Ser Jorah Mormont. Barristan’s narrative bridges the gap between the political intrigue of King's Landing and Daenerys’ rise to power in Essos, marking him as one of the pivotal characters connecting these storylines.",
+    "memorableMoments": [
+      "In a defiant response to his dismissal from the Kingsguard, Barristan proclaims he could dispatch the guards barring his way 'as easily as carving a cake,' underscoring his legendary martial prowess.",
+      "He gains Daenerys’ trust and loyalty by heroically defending her against a manticore attack in Astapor, an act that solidifies his role as one of her most trusted advisors.",
+      "His death at the hands of the Sons of the Harpy during their ambush is notable for its tragic irony; despite his vast experience, he falls to foes who should have been within his capacity to defeat."
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Benjen Stark",
+    "actor": "Joseph Mawle",
+    "debut": "Season 1",
+    "imageUrl": "/images/benjen_stark.jpg",
+    "description": "As one of the noble First Rangers of the Night’s Watch, Uncle Benjen serves as a significant figure and inspiration for Jon Snow. His mysterious disappearance during a patrol northward in Season 1 becomes a catalyst for the plotline involving the White Walkers and the Wildling threat. This event propels Jon on an epic journey to uncover the truth about what lies beyond the Wall. Benjen's return to the series as half-zombie, having been saved by the Children of the Forest from being fully turned into a wight, is a pivotal moment that connects past mysteries with present events and highlights his enduring bond with Jon.",
+    "memorableMoments": [
+      "The revelation of Benjen’s fate—his transformation into 'Coldhands'—provides a dramatic twist and explanation for earlier sightings of figures beyond the Wall.",
+      "His initial role as an inspiration to Jon underscores the Stark family's deep ties to the Night’s Watch and sets the stage for Jon’s leadership journey."
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Gendry",
+    "actor": "Joe Dempsie",
+    "debut": "Season 1",
+    "imageUrl": "/images/gendry.jpg",
+    "description": "Introduced during Ned Stark's investigation into Jon Arryn’s death, Gendry is revealed as one of Robert Baratheon's bastards. His journey from King’s Landing to the freedom of the road makes him an integral part of Arya Stark’s escape and adventures beyond the capital. Along the way, Gendry becomes a potential love interest for Arya, creating intriguing possibilities for their future interactions. Gendry's discovery of his true parentage by Melisandre adds layers to his character, hinting at his significance in the larger conflict for the Iron Throne. His mysterious absence from Season 4, humorously addressed by actor Joe Dempsie’s tweet about 'still rowin', leaves fans eager for his return.",
+    "memorableMoments": [
+      "When Arya offers Gendry a place as her family, he affectionately responds, ‘You’d be m’Lady,’ highlighting their deepening bond.",
+      "His revelation of Robert Baratheon being his father by Melisandre intertwines his fate with the ongoing battle for power in Westeros.",
+      "Joe Dempsie’s playful tweet about Gendry's absence during Season 4 added a layer of humor to his mysterious disappearance, keeping fans engaged and hopeful for his return."
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Qyburn",
+    "actor": "Anton Lesser",
+    "debut": "Season 3",
+    "imageUrl": "/images/qyburn.jpg",
+    "description": "Starting as a disgraced and exiled former Maester, Qyburn rises to prominence by aligning himself with Cersei Lannister. Known for his unethical experiments and dark innovations, he plays a crucial role in the transformation of Ser Gregor Clegane into 'The Mountain' through questionable means. His expertise becomes instrumental in reviving wildfire as a weapon in King’s Landing, cementing his position as a key player in Cersei's court. Qyburn’s ascent to Hand of the Queen during Cersei’s coronation marks a significant rise from obscurity, highlighting his cunning ability to navigate and manipulate power dynamics within the Lannister regime.",
+    "memorableMoments": [
+      "His blunt revelation to Jamie Lannister that his 'weakness' is curiosity underscores Qyburn's manipulative nature.",
+      "The official appointment as Hand of the Queen during Cersei’s coronation showcases his successful maneuvering into a position of immense influence and power."
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Talisa Maegyr",
+    "actor": "Oona Chaplin",
+    "debut": "Season 2",
+    "imageUrl": "/images/talisa_maegyr.jpg",
+    "description": "Introduced as the compassionate and skilled healer in Robb Stark's camp, Talisa quickly becomes integral to his life. Their relationship develops into one of the rare heartfelt romances on Game of Thrones. Her role during the Red Wedding is especially poignant, marking her death as a significant emotional impact beyond what was depicted in George R.R. Martin’s books. Talisa represents Robb Stark's struggle between duty and personal desire, adding depth to his tragic end.",
+    "memorableMoments": [
+      "Making an immediate impression on Robb by tending to an injured Lannister soldier showcases her compassion and skill as a healer.",
+      "Her suggestion to name their unborn child after Ned Stark if it were a boy highlights the deep bond she shares with the Stark family, even amidst political turmoil."
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Alliser Thorne",
+    "actor": "Owen Teale",
+    "debut": "Season 1",
+    "imageUrl": "/images/alliser_thorne.jpg",
+    "description": "As the gruff and authoritative master-at-arms of Castle Black, Alliser Thorne is known for his abrasive demeanor and critical view of Jon Snow. His constant scrutiny and criticism create tension among recruits, often undermining their morale. Despite being a formidable warrior during key battles like the Battle of Castle Black, Thorne’s antagonistic behavior makes him a challenging character to sympathize with. Following Jeor Mormont's death, he assumes command at the Wall in Season 4, further cementing his role as Jon Snow's adversary.",
+    "memorableMoments": [
+      "The creation of Jon Snow's mocking nickname, 'Lord Snow,' highlights Thorne’s penchant for sarcasm and underlines the tension between him and Jon.",
+      "His temporary leadership of Castle Black after Jeor Mormont's death provides a glimpse into his capability as a commander, though it is often overshadowed by his abrasive personality."
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Osha",
+    "actor": "Nathalie Emmanuel",
+    "debut": "Season 1",
+    "imageUrl": "/images/osha.jpg",
+    "description": "Introduced in the Wolfswood during the series' opening season, Osha is one of the first glimpses viewers receive into the wildling culture. Her intelligence and loyalty quickly become evident, as she proves herself to be a steadfast ally to Bran and Rickon Stark, especially after Theon Greyjoy’s betrayal leads to chaos at Winterfell. Despite her initial portrayal as part of the feared 'other' beyond the Wall, Osha's character is nuanced, demonstrating both strength and compassion.",
+    "memorableMoments": [
+      "Her refusal to address Theon as 'my lord' in Season 1 subtly highlights her insight into the precariousness of his claim.",
+      "Assisting Bran and Rickon’s escape by seducing Theon underscores her cunning and loyalty to those she cares about.",
+      "Her attempt to use similar tactics on Ramsay Bolton in Season 6 tragically ends differently, marking a poignant moment in her storyline."
+    ]
   }
 
 
