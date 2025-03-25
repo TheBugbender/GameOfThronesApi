@@ -802,6 +802,71 @@
       "Assisting Bran and Rickon’s escape by seducing Theon underscores her cunning and loyalty to those she cares about.",
       "Her attempt to use similar tactics on Ramsay Bolton in Season 6 tragically ends differently, marking a poignant moment in her storyline."
     ]
+  },
+  {
+    "id": 64,
+    "name": "Olly",
+    "actor": "Brenock O’Connor",
+    "debut": "Season 4",
+    "imageUrl": "/images/olly.jpg",
+    "description": "Introduced as the young son of wildling hunters whose village is destroyed in retaliation, Olly's journey with the Night’s Watch is marked by his struggle to reconcile personal trauma with newfound loyalties. Under Jon Snow's mentorship, Olly transforms into a committed member of the Watch, yet his deep-seated animosity towards the wildlings ultimately leads him to betray Jon. His character arc reflects the series' exploration of identity and allegiance in a world divided by war.",
+    "memorableMoments": [
+      "Olly’s introduction as a traumatized young boy provides a powerful foundation for his later development into a key figure within the Night’s Watch.",
+      "The gradual shift in his loyalty towards Jon Snow, fueled by growing tensions with the wildlings, sets the stage for his eventual betrayal.",
+      "His execution during Season 6 evokes complex emotions, highlighting the tragic consequences of his choices."
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Lancel Lannister",
+    "actor": "Eugene Simon",
+    "debut": "Season 1",
+    "imageUrl": "/images/lancel_lannister.jpg",
+    "description": "Introduced as a seemingly loyal servant to House Lannister, Lancel Lannister’s character arc takes an unexpected turn when he converts to the faith of the Sparrows in Season 5. This transformation marks his evolution from a pawn manipulated by Cersei and Tyrion into a key player within the religious uprising that nearly topples King's Landing. His unwavering dedication to the High Sparrow underscores themes of redemption and ideological conviction, even as he remains entangled in family intrigue.",
+    "memorableMoments": [
+      "Lancel plays a crucial role in the 'hunting accident' leading to King Robert Baratheon’s demise, showcasing his early involvement in Cersei's schemes.",
+      "After suffering under Tyrion’s wit and sarcasm throughout Season 2, his absence is felt until he reemerges as a zealous Sparrow supporter.",
+      "His confrontation with Cersei at the end of Season 6 demonstrates a potential shift in loyalty, though ultimately thwarted by Qyburn's interventions."
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Maester Pycelle",
+    "actor": "Julian Glover",
+    "debut": "Season 1",
+    "imageUrl": "/images/pycelle.jpg",
+    "description": "Maester Pycelle's tenure at King's Landing spans several reigns, where his outward loyalty to the Lannisters masks his intricate involvement in the kingdom’s politics. Known for his seemingly frail demeanor, which was later revealed as a cunning disguise, Pycelle navigates the treacherous waters of court intrigue with a quiet acumen. However, his inability to adapt to the volatile dynamics between Tyrion and Cersei ultimately leads to his downfall, demonstrating the perils of underestimating one's enemies.",
+    "memorableMoments": [
+      "In Season 1, it is subtly revealed that Pycelle’s frailty was a calculated facade intended to disarm suspicion.",
+      "His encounter with Tyrion, resulting in an involuntary beard trim and imprisonment, marks a significant decline in his influence at court.",
+      "Pycelle’s overt mockery of Qyburn highlights his fatal misjudgment, leading to his demise."
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Mace Tyrell",
+    "actor": "Roger Ashton-Griffiths",
+    "debut": "Season 4",
+    "imageUrl": "/images/mace_tyrell.jpg",
+    "description": "As the head of House Tyrell, Mace Tyrell's leadership is often overshadowed by his mother, Olenna Tyrell, whose strategic acumen compensates for his own lackluster abilities. Known for his comedic timing, Mace provides much-needed levity amid the grim events of King’s Landing. His tenure highlights the delicate balance between familial support and individual capability in a world fraught with political intrigue.",
+    "memorableMoments": [
+      "During Tyrion Lannister's trial in Season 4, Mace serves as one of the judges, visibly bewildered by the proceedings, adding to his comedic portrayal.",
+      "Sent to Braavos by Cersei, he unwittingly becomes Arya Stark's next target when accompanied by her nemesis, Meryn Trant.",
+      "Despite the growing tensions with House Lannister, Mace’s obliviousness leaves him unprepared for Cersei’s ultimate betrayal."
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Maester Aemon",
+    "actor": "Peter Vaughan",
+    "debut": "Season 1",
+    "imageUrl": "/images/aemon.jpg",
+    "description": "Introduced as a wise and compassionate figure at Castle Black, Maester Aemon's true lineage as the last surviving member of House Targaryen adds depth to his character. His presence serves as a bridge between Westeros' past glories and its uncertain future, offering guidance to Jon Snow amidst his personal conflicts of loyalty and identity. Aemon’s role is pivotal in several key events at the Wall, cementing his status as one of the most beloved characters on Game of Thrones.",
+    "memorableMoments": [
+      "In a poignant revelation during Season 1, Maester Aemon discloses his Targaryen heritage to Jon Snow, influencing Jon's decision to remain with the Night’s Watch.",
+      "His decisive vote in favor of Jon for Lord Commander during Season 5 exemplifies his belief in Jon’s leadership capabilities.",
+      "As he lay dying, Aemon reflects on his brother Viserys, known as 'Egg,' a character from the beloved 'Dunk and Egg' novellas, adding layers to his storied past."
+    ]
   }
 
 
