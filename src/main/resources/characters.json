@@ -867,14 +867,156 @@
       "His decisive vote in favor of Jon for Lord Commander during Season 5 exemplifies his belief in Jon’s leadership capabilities.",
       "As he lay dying, Aemon reflects on his brother Viserys, known as 'Egg,' a character from the beloved 'Dunk and Egg' novellas, adding layers to his storied past."
     ]
+  },
+  {
+    "id": 69,
+    "name": "Craster",
+    "actor": "Robert Pugh",
+    "debut": "Season 2",
+    "imageUrl": "/images/craster.jpg",
+    "description": "Craster is depicted as an unsettling and morally ambiguous character living beyond the Wall. His brutal lifestyle and contentious relationship with both his family and the Night's Watch underscore the harsh realities of life in such a desolate land. Despite his often antagonistic interactions, Craster’s existence serves to highlight the desperate measures taken by those tasked with guarding the realm from threats beyond human comprehension.",
+    "memorableMoments": [
+      "Craster's uneasy hospitality towards the Night's Watch hints at his fear that his dark secrets might be exposed.",
+      "His ill-advised confrontation with the starving Wildlings in Season 3, fueled by intoxication, ultimately leads to his demise, illustrating his lack of foresight and vulnerability."
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Mance Rayder",
+    "actor": "Ciaran Hinds",
+    "debut": "Season 3",
+    "imageUrl": "/images/mance_rayder.jpg",
+    "description": "Known as 'King-Beyond-the-Wall,' Mance Rayder is a charismatic leader who unites the wildlings under his command. His defection from the Night's Watch and subsequent rise to power demonstrate both his strategic acumen and natural leadership qualities. Despite facing betrayal, Mance remains steadfast in his principles, earning him respect even among his adversaries.",
+    "memorableMoments": [
+      "Mance forms a bond with Jon Snow due to their shared history as deserters from the Night’s Watch, highlighting themes of loyalty and redemption.",
+      "His dramatic end on Melisandre’s pyre marks a significant turning point in the battle between the wildlings and the forces of Westeros, showcasing his tragic heroism."
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Balon Greyjoy",
+    "actor": "Patrick Malahide",
+    "debut": "Season 2",
+    "imageUrl": "/images/balon_greyjoy.jpg",
+    "description": "As the King of the Iron Islands, Balon Greyjoy is characterized by his stubbornness and flawed leadership. His inability to effectively govern leads to multiple rebellions, which threaten not only his reign but also the stability of Westeros. Despite these shortcomings, Balon's relationship with his daughter Yara stands out as a notable exception to his otherwise harsh demeanor.",
+    "memorableMoments": [
+      "Upon Theon's return, Balon quickly reasserts his authority with hostility, revealing little paternal warmth.",
+      "In contrast to typical Ironborn sexism, Balon recognizes and supports Yara as his true heir, showcasing an unexpected side of his leadership.",
+      "His stoic reaction upon receiving Ramsay’s grisly message—Theon’s severed hand—underscores his ruthless nature."
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Tommen Baratheon",
+    "actor": "Callum Wharry / Dean-Charles Chapman",
+    "debut": "Season 1",
+    "imageUrl": "/images/tommen_baratheon.jpg",
+    "description": "Tommen Baratheon ascends to the throne after his older brother Joffrey's untimely demise. Initially portrayed as a more compassionate and malleable ruler, Tommen becomes increasingly influenced by the conflicting pressures from Cersei Lannister and the High Sparrow. This manipulation leads to tragic decisions that culminate in his downfall.",
+    "memorableMoments": [
+      "In an early display of his vulnerability, Tommen narrowly escapes death when Cersei attempts to poison him during a rebellion.",
+      "The transition from Callum Wharry to Dean-Charles Chapman occurs as Tommen’s character grows more central and complex with the series’ progression.",
+      "Despite his regal status, Ser Pounce, Tommen's beloved cat, endears himself to fans and adds a touch of relatability to his storyline."
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Viserys Targaryen",
+    "actor": "Harry Lloyd",
+    "debut": "Season 1",
+    "imageUrl": "/images/viserys_targaryen.jpg",
+    "description": "Viserys Targaryen, the last surviving member of House Targaryen after Robert's Rebellion, is marked by his bitter and vengeful demeanor. His inability to wield power with dignity leads him to make desperate decisions, including offering his sister Daenerys in marriage to secure an army from Khal Drogo. Viserys’ tragic flaws—his arrogance and insecurity—ultimately lead to his downfall.",
+    "memorableMoments": [
+      "In a pivotal scene, Viserys trades Daenerys' freedom for Drogo's support, setting the stage for her rise.",
+      "His demise comes when Drogo executes him with molten gold after enduring his relentless demands and insults, marking one of the series’ early brutal turning points."
+    ]
+  },
+  {
+    "id": 74,
+    "name": "The Three-Eyed Raven",
+    "actor": "Struan Rodger / Max von Sydow",
+    "debut": "Season 4",
+    "imageUrl": "/images/three-eyed_raven.jpg",
+    "description": "Initially introduced through Bran Stark's visions as an enigmatic raven, the character of the Three-Eyed Raven is later revealed to be a powerful being with vast knowledge and insight. He plays a crucial role in guiding Bran on his path to becoming the new Warden of the North and ultimately fulfilling a greater destiny.",
+    "memorableMoments": [
+      "The Raven first appears in Bran's early visions as an otherworldly figure, symbolizing wisdom and mystery.",
+      "In Season 6, he imparts vital knowledge to Bran by showing him significant events from the past, providing depth to both character development and plot progression."
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Eddison Edd Tollett \"Dolorous\"",
+    "actor": "Ben Crompton",
+    "debut": "Season 2",
+    "imageUrl": "/images/edd_tollett.jpg",
+    "description": "A loyal and steadfast member of the Night's Watch, Eddison \"Dolorous\" Edd Tollett is renowned for his unwavering support to Jon Snow. Known for his dry wit and dark humor, Edd plays a crucial role in key events across seasons, proving himself as one of the most reliable characters on the show.",
+    "memorableMoments": [
+      "Nicknamed \"Dolorous Edd\" by his brothers at the Night's Watch, he is celebrated for his unique sense of humor.",
+      "Amidst turmoil within the Night’s Watch, Edd remains loyal to Jon after others betray their commander, solidifying his role as a trusted ally.",
+      "At the conclusion of Season 6, Jon names Edd Lord Commander of the Night's Watch, recognizing his leadership and loyalty."
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Obara Sand",
+    "actor": "Keisha Castle-Hughes",
+    "debut": "Season 5",
+    "imageUrl": "/images/obara_sand.jpg",
+    "description": "Obara Sand, the eldest of the Sand Snakes, is driven by an intense desire for vengeance following her father Oberyn's death. While she inherits his formidable combat skills and fiery spirit, Obara lacks Oberyn’s charm and strategic wisdom. Her actions often reflect a ruthless pursuit of retribution, making her both feared and unpredictable.",
+    "memorableMoments": [
+      "Named after her legendary father, the \"Red Viper\" Oberyn Martell, Obara embodies his thirst for vengeance.",
+      "In a chilling display of power, she kills an informant by burying him in sand, showcasing her merciless nature.",
+      "During Season 6, Obara tracks down her cousin Trystane’s ship and coldly executes him to claim control over Dorne with her sisters."
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Pyat Pree",
+    "actor": "Ian Hanmore",
+    "debut": "Season 2",
+    "imageUrl": "/images/pyat_pree.jpg",
+    "description": "Pyat Pree is one of the first characters on \"Game of Thrones\" to demonstrate overt magical abilities, marking him as both intriguing and sinister. A powerful warlock from Qarth, Pyat can create limitless duplicates of himself, showcasing his formidable sorcery. Despite his dark capabilities, he ultimately meets a fiery demise at the hands of Daenerys's dragons, providing a memorable moment in the series.",
+    "memorableMoments": [
+      "During his initial meeting with Daenerys, Pyat reveals his ability to conjure doubles of himself through his magical tricks.",
+      "He conspires with Xaro Xhoan Daxos to overthrow the leaders of Qarth and steal Daenerys's dragons. This betrayal leads to his downfall when he is incinerated by her dragons."
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Wun Wun",
+    "actor": "Ian Whyte",
+    "debut": "Season 5",
+    "imageUrl": "/images/wun_wun.jpg",
+    "description": "Wun Wun, affectionately known as \"Wun Wun\" by Jon Snow's men in the Night's Watch, is believed to be the last of his kind. Despite his fearsome appearance and imposing size, he quickly proves himself an invaluable ally through his bravery and loyalty. His notable actions during key battles highlight his crucial role in pivotal moments throughout the series.",
+    "memorableMoments": [
+      "Wun Wun demonstrates his formidable combat skills when he fights valiantly against the White Walkers at Hardhome.",
+      "He provides a dark yet humorous moment by crushing a rebellious Night's Watch member with ease upon arriving to retrieve Jon Snow's body.",
+      "During the Battle of the Bastards, Wun Wun heroically charges alone into Winterfell’s gates, providing Jon and his forces with the opening they desperately need."
+    ]
+  },
+  {
+    "id": 79,
+    "name": "The Waif",
+    "actor": "Faye Marsay",
+    "debut": "Season 5",
+    "imageUrl": "/images/the_waif.jpg",
+    "description": "In the House of Black and White, The Waif serves as Arya Stark's formidable adversary, challenging her both physically and mentally. Known for her stoic demeanor and exceptional combat skills, she embodies the rigorous demands of becoming a Faceless Man. Her relentless antagonism towards Arya fuels one of the show’s most intense character dynamics, culminating in a climactic confrontation that resonates deeply with viewers.",
+    "memorableMoments": [
+      "The Waif is infamous for her constant provocation and challenging combat sessions with Arya, pushing her to the brink.",
+      "Her ultimate demise at Arya's hands serves as one of the series' most gratifying moments, symbolizing Arya’s growth and determination."
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Jeor Mormont",
+    "actor": "James Cosmo",
+    "debut": "Season 1",
+    "imageUrl": "/images/jeor_mormont.jpg",
+    "description": "Known affectionately as \"The Old Bear,\" Jeor Mormont is revered as a stalwart and honorable leader of the Night's Watch. His leadership is characterized by fairness, respect, and unwavering loyalty to those under his command. Despite his eventual betrayal at Craster's Keep, Mormont leaves an indelible mark through his mentorship and bravery, particularly in his support for Jon Snow and his valor during the wight attack on the Fist of the First Men.",
+    "memorableMoments": [
+      "Jeor Mormont appoints Jon Snow as his personal steward, recognizing his potential and fostering his growth within the Night's Watch.",
+      "Despite advancing age, Mormont demonstrates his enduring combat prowess by fiercely battling the encroaching wights at the Fist of the First Men in Season 3."
+    ]
   }
-
-
-
-
-
-
-
 
 
 
