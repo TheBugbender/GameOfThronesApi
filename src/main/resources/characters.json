@@ -1016,6 +1016,70 @@
       "Jeor Mormont appoints Jon Snow as his personal steward, recognizing his potential and fostering his growth within the Night's Watch.",
       "Despite advancing age, Mormont demonstrates his enduring combat prowess by fiercely battling the encroaching wights at the Fist of the First Men in Season 3."
     ]
+  },
+  {
+    "id": 81,
+    "name": "Rickon Stark",
+    "actor": "Art Parkinson",
+    "debut": "Season 1",
+    "imageUrl": "/images/rickon_stark.jpg",
+    "description": "As the youngest member of House Stark, Rickon Stark often receives less focus compared to his siblings but remains an important part of the narrative. Known for his wild and adventurous spirit, he symbolizes both innocence lost and resilience amidst turmoil. Although his time on \"Game of Thrones\" is brief, his journey from a carefree child at Winterfell to his tragic demise under Ramsay Bolton's cruelty evokes deep emotional responses.",
+    "memorableMoments": [
+      "Rickon’s untamed nature becomes increasingly evident as the chaos surrounding his family escalates in the early seasons.",
+      "His unexpected return in Season 6 is tragically cut short, underscoring the brutal realities of the world he inhabits when he falls victim to Ramsay Bolton."
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Selyse Baratheon",
+    "actor": "Sarah MacLachlan / Tara Fitzgerald",
+    "debut": "Season 2",
+    "imageUrl": "/images/selyse_baratheon.jpg",
+    "description": "Queen Selyse Baratheon, initially portrayed as a somewhat peripheral character, evolves into a more formidable presence by the fifth season. Her complex relationship with her daughter Shireen and unwavering devotion to the Lord of Light underscore her tragic arc. Despite her cruel actions, including sanctioning Shireen's sacrifice and keeping stillborn sons preserved in jars, Selyse’s final act of suicide can be interpreted as an acknowledgment of her own moral failings.",
+    "memorableMoments": [
+      "In Season 3, it is revealed that Queen Selyse harbored the macabre practice of preserving her stillborn sons’ bodies in jars within her chambers.",
+      "During Season 4, she witnesses Melisandre’s fiery execution of her brother, Stannis Baratheon's sibling, further cementing her descent into fanaticism.",
+      "Her storyline culminates with a harrowing decision to sacrifice Shireen to the Lord of Light, followed by her own death by hanging."
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Meryn Trant",
+    "actor": "Ian Beattie",
+    "debut": "Season 1",
+    "imageUrl": "/images/meryn_trant.jpg",
+    "description": "Meryn Trant, a member of the Kingsguard, is characterized by his blind loyalty and brutal enforcement of authority. As one of Cersei Lannister's favored knights, Trant epitomizes ruthless obedience, often resorting to violence against those who challenge him or the ruling order. His untimely death at the hands of Arya Stark in Season 5 marks a pivotal moment, symbolizing justice for his many transgressions.",
+    "memorableMoments": [
+      "In one notable encounter, Trant confronts Syrio Forel with overwhelming force despite the latter being unarmed except for a wooden practice sword—a display of excessive aggression.",
+      "He further exhibits his loyalty to the crown by violently assaulting Sansa Stark under King Joffrey's orders.",
+      "His life is abruptly ended by Arya Stark in Season 5, an act that serves as poetic justice for his cruel actions."
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Hot Pie",
+    "actor": "Ben Hawkey",
+    "debut": "Season 1",
+    "imageUrl": "/images/hot_pie.jpg",
+    "description": "Hot Pie stands out in 'Game of Thrones' as one of its most endearing characters. Despite the harsh realities that surround him, he maintains his kindness and good-hearted nature. Renowned for his culinary skills, particularly his increasingly lifelike wolf-shaped breads, Hot Pie provides a sense of warmth and nostalgia to those who encounter him. His appearances, though brief, leave lasting impressions on both Arya Stark and Brienne of Tarth.",
+    "memorableMoments": [
+      "Initially presenting himself as brave to Arya Stark until the threat of her blade, Needle, reveals his true timid nature, endearing him further with his honesty.",
+      "In Season 2, he finds himself hiding in the bushes when their group is ambushed while traveling north to the Wall.",
+      "Between Seasons 3 and 4, Hot Pie's baking prowess notably improves, as seen in his wolf-shaped loaves which he gifts Arya and later Brienne."
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Ros",
+    "actor": "Esmé Bianco",
+    "debut": "Season 1",
+    "imageUrl": "/images/ros.jpg",
+    "description": "Introducing 'Game of Thrones' as one of the first characters in the pilot episode, Ros starts her journey seemingly in the background as a prostitute serving Tyrion Lannister. Her character quickly gains depth and significance over the course of three seasons, evolving into a key player with surprising resilience and intelligence. Despite not being part of George R.R. Martin's 'A Song of Ice and Fire' books, Ros captures the audience’s admiration through her ability to challenge formidable figures such as Theon Greyjoy and Littlefinger, culminating in her tragic yet impactful demise.",
+    "memorableMoments": [
+      "Initially appearing in the very first episode, Ros's significance was not immediately apparent but would unfold dramatically.",
+      "In Season 2, she attempts to seduce King Joffrey, a tense moment that is challenging for many viewers due to its intensity and stakes.",
+      "Her death at Joffrey’s hands after being revealed as a spy for Varys by Littlefinger is both brutal and satisfyingly ironic given the king's own demise shortly thereafter."
+    ]
   }
 
 
