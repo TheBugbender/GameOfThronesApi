@@ -1080,7 +1080,72 @@
       "In Season 2, she attempts to seduce King Joffrey, a tense moment that is challenging for many viewers due to its intensity and stakes.",
       "Her death at Joffrey’s hands after being revealed as a spy for Varys by Littlefinger is both brutal and satisfyingly ironic given the king's own demise shortly thereafter."
     ]
+  },
+  {
+    "id": 86,
+    "name": "Lysa Arryn",
+    "actor": "Kate Dickie",
+    "debut": "Season 1",
+    "imageUrl": "/images/lysa_arryn.jpg",
+    "description": "As Catelyn Stark's estranged sister, Lady Lysa Arryn emerges as a complex and unsettling presence in 'Game of Thrones.' Known for her erratic behavior and disturbing actions, such as the controversial scene with her son Robin and the pivotal role she plays in the unfolding political drama by falsely accusing the Lannisters of poisoning her husband. Her unpredictable nature makes her a formidable force until her arc concludes with Petyr Baelish's chilling betrayal.",
+    "memorableMoments": [
+      "Her introduction is striking, particularly due to the awkward scene involving her breastfeeding her adult son Robin.",
+      "Lysa plays a critical role in igniting the War of the Five Kings by spreading misinformation about Jon Arryn’s death.",
+      "The expression on her face as Petyr 'Littlefinger' Baelish pushes her through the Moon Door is a hauntingly memorable moment, symbolizing her downfall."
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Robin Arryn",
+    "actor": "Lino Facioli",
+    "debut": "Season 1",
+    "imageUrl": "/images/robin_arryn.jpg",
+    "description": "Known as 'Sweetrobin,' Robin Arryn is an intriguing yet deeply flawed character from the noble House of Arryn. As Lord of the Eyrie and Warden of the East, his petulant demeanor and immature behavior often provoke both sympathy and frustration in viewers. Despite being one of the most pitiable figures on the show, his actions have significant consequences, particularly with regard to the political machinations orchestrated by Petyr Baelish.",
+    "memorableMoments": [
+      "During Season 1, Robin's plea for Tyrion Lannister to be expelled through the Moon Door is a testament to his manipulative nature.",
+      "His antics at the Eyrie result in him being slapped by Sansa Stark after he damages her snow castle, highlighting their strained relationship.",
+      "In a pivotal decision during Season 6, Robin endorses Littlefinger's scheme to send the Vale’s forces north, inadvertently advancing key plot developments."
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Qhorin Halfhand",
+    "actor": "Simon Armstrong",
+    "debut": "Season 2",
+    "imageUrl": "/images/qhorin_halfhand.jpg",
+    "description": "Known for his moniker 'Halfhand' due to his missing hand, Qhorin Halfhand was one of the Night's Watch's most skilled and formidable rangers. During their mission beyond the Wall, he acts as both a mentor and protector to Jon Snow, guiding him through the complexities of survival in the wilds. His selfless sacrifice during a duel with Jon is pivotal, enabling Jon’s infiltration into Wildling ranks—a decision that significantly alters the trajectory of the series.",
+    "memorableMoments": [
+      "In a crucial act of bravery and strategy, Qhorin sacrifices himself in combat against Jon Snow to allow him to feign defection to the Wildlings, setting the stage for Jon's subsequent undercover mission."
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Lady Crane",
+    "actor": "Essie Davis",
+    "debut": "Season 6",
+    "imageUrl": "/images/lady_crane.jpg",
+    "description": "In the brief but impactful arc set in Braavos, Lady Crane stands out as an influential figure during Arya Stark’s time with the Faceless Men. Her compassionate nature and understanding of hardship resonate deeply with Arya, fostering a unique mentor-student relationship. Lady Crane's decision to help Arya after her conflict with the House marks a turning point for Arya, prompting her return to Westeros. Though it leads to her own demise, Lady Crane’s kindness significantly influences Arya’s journey.",
+    "memorableMoments": [
+      "Lady Crane performs as Cersei Lannister in a play at the House of Black and White, showcasing her talent and poise.",
+      "Her care for Arya after their disagreement with the Faceless Men results in her tragic death, yet her influence endures throughout Arya's subsequent adventures."
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Euron Greyjoy",
+    "actor": "Pilou Asbæk",
+    "debut": "Season 6",
+    "imageUrl": "/images/euron_greyjoy.jpg",
+    "description": "As one of the most cunning and ruthless members of House Greyjoy, Euron 'Crow's Eye' quickly establishes himself as a formidable presence in Westeros. His rise to power is marked by betrayal and ambition, beginning with his assassination of brother Balon—a long-predicted event that sets the stage for his dominance over Iron Islands. At the Kingsmoot, he skillfully outmaneuvers Yara to seize control of the salt throne, cementing his authority and signaling a new era of Greyjoy rule.",
+    "memorableMoments": [
+      "In a shocking turn of events at the start of Season 6, Euron murders Balon Greyjoy, fulfilling Melisandre's prophecy from three seasons prior.",
+      "At the Kingsmoot, Euron deftly asserts his dominance by defeating Yara and securing the position as King of the Iron Islands."
+    ]
   }
+
+
+
+
 
 
 
