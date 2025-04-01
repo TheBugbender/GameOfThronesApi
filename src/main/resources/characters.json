@@ -1170,10 +1170,7 @@
   {
     "id": 93,
     "name": "Leaf",
-    "actor": [
-      "Octavia Alexandru",
-      "Kae Alexander"
-    ],
+    "actor": "Octavia Alexandru / Kae Alexander",
     "debut": "Season 4",
     "imageUrl": "/images/leaf.jpg",
     "description": "A mysterious and ethereal figure, Leaf is one of the enigmatic Children of the Forest whose ancient wisdom and magic are pivotal to the narrative. Her presence is marked by a deep connection with nature and an understanding of the mystical forces at play in Westeros. Leaf’s bravery shines through as she sacrifices herself alongside Hodor to save Bran Stark from White Walkers, ensuring their escape but falling in the process. Her creation of the first White Walker highlights her strategic acumen in using formidable powers against men who threatened her people.",
