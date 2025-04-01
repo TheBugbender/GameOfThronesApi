@@ -1141,16 +1141,70 @@
       "In a shocking turn of events at the start of Season 6, Euron murders Balon Greyjoy, fulfilling Melisandre's prophecy from three seasons prior.",
       "At the Kingsmoot, Euron deftly asserts his dominance by defeating Yara and securing the position as King of the Iron Islands."
     ]
+  },
+  {
+    "id": 91,
+    "name": "Janos Slynt",
+    "actor": "Dominic Carter",
+    "debut": "Season 1",
+    "imageUrl": "/images/janos_slynt.jpg",
+    "description": "Janos Slynt's arc is one of betrayal and ambition, serving as a cautionary tale within the world of Westeros. Beginning his journey as Commander of King’s Landing City Watch, Slynt quickly ascends through treachery by aligning himself with Cersei Lannister against Eddard Stark. His ascent to Lordship at Harrenhal is marred by deceit and cruelty, particularly in the massacre of Robert Baratheon's bastards. Despite his scheming nature, Slynt's downfall is inevitable; he meets a grim fate at the hands of Jon Snow after being transferred as Commander of Castle Black.",
+    "memorableMoments": [
+      "His public betrayal of Ned Stark leads to Stark’s arrest by the Lannisters and propels Slynt into Lordship at Harrenhal.",
+      "A memorable dinner with Tyrion in Season 2 ends dramatically when Tyrion orchestrates Slynt's arrest and dispatches him to the Night’s Watch.",
+      "In a moment of poetic justice, Janos meets his end through execution by decapitation under Jon Snow’s command for insubordination at Castle Black."
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Mirri Maz Duur",
+    "actor": "Mia Soteriou",
+    "debut": "Season 1",
+    "imageUrl": "/images/mirri_maz_duur.jpg",
+    "description": "A pivotal yet enigmatic figure in Daenerys Targaryen's journey, Mirri Maz Duur embodies the themes of trust and betrayal. As a healer with deep knowledge of blood magic, she plays a critical role when Khal Drogo is mortally wounded. Her intervention saves Drogo at a grave cost—she traps him between life and death. This act leads to Daenerys's desperate attempt to save Drogo by turning to the mystical flames, which ultimately results in her firstborn son’s sacrifice. Mirri Maz Duur’s actions underscore the power of magic and its consequences within the world of Westeros.",
+    "memorableMoments": [
+      "Saved from Khal Drogo’s wrath when he razes her village, she becomes an essential part of Daenerys's entourage.",
+      "Through blood magic, she saves Drogo’s life but inadvertently binds him to a limbo between death and life. As retribution for this perceived betrayal, Daenerys orders Mirri Maz Duur to be burned alive."
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Leaf",
+    "actor": [
+      "Octavia Alexandru",
+      "Kae Alexander"
+    ],
+    "debut": "Season 4",
+    "imageUrl": "/images/leaf.jpg",
+    "description": "A mysterious and ethereal figure, Leaf is one of the enigmatic Children of the Forest whose ancient wisdom and magic are pivotal to the narrative. Her presence is marked by a deep connection with nature and an understanding of the mystical forces at play in Westeros. Leaf’s bravery shines through as she sacrifices herself alongside Hodor to save Bran Stark from White Walkers, ensuring their escape but falling in the process. Her creation of the first White Walker highlights her strategic acumen in using formidable powers against men who threatened her people.",
+    "memorableMoments": [
+      "In Season 4, Leaf aids Bran and his companions as they navigate a dangerous encounter with wights near the Three-Eyed Raven's cave.",
+      "Demonstrating her tactical prowess from the past, Leaf is responsible for creating the first White Walker to serve as a weapon against human adversaries.",
+      "In a selfless act of courage in Season 6, she sacrifices herself by using the power of the weirwood tree to destroy a horde of wights, ensuring Bran and Meera's escape."
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Prince Doran Martell",
+    "actor": "Alexander Siddig",
+    "debut": "Season 5",
+    "imageUrl": "/images/prince_doran_martell.jpg",
+    "description": "An embodiment of patience and pragmatism, Prince Doran Martell is a nuanced ruler whose leadership style prioritizes peace and diplomacy over conflict. In the transition from book to screen, his character was portrayed with less complexity, often criticized for perceived indecisiveness. However, his strategic mindset and political acumen are evident in his initial efforts to maintain neutrality amidst the chaos of Westerosi politics. His unexpected assassination by Ellaria Sand and the Sand Snakes serves as a pivotal moment, ultimately prompting Dorne's active involvement against the Lannisters.",
+    "memorableMoments": [
+      "Demonstrated his diplomatic approach when he showed mercy to Jaime Lannister and Bronn in Season 5, despite their notorious reputations.",
+      "His life was abruptly ended during an assassination orchestrated by Ellaria Sand within the serene setting of his cherished Water Gardens at the start of Season 6, marking a turning point for Dorne's allegiance."
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Maester Luwin",
+    "actor": "Donald Sumpter",
+    "debut": "Season 1",
+    "imageUrl": "/images/maester_luwin.jpg",
+    "description": "A loyal and wise counselor to House Stark, Maester Luwin served as the trusted steward and mentor within the walls of Winterfell. In the absence of Lord Eddard and Lady Catelyn, he assumed a leadership role, guiding the young Stark children with patience and care. His dedication extended beyond his duties, becoming a father figure, especially to Bran and Rickon. Maester Luwin's life came to a tragic end during Ramsay Bolton’s ruthless assault on Winterfell, marking a poignant moment of loss for the Stark family.",
+    "memorableMoments": [
+      "Stark was called to King's Landing and Catelyn was occupied with Bran's care.",
+      "His final act of kindness came in the godswood as he bid farewell to Bran and Rickon, offering them comfort amidst chaos following Ramsay’s brutal takeover."
+    ]
   }
-
-
-
-
-
-
-
-
-
-
-
 ]
