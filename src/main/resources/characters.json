@@ -1203,5 +1203,68 @@
       "Stark was called to King's Landing and Catelyn was occupied with Bran's care.",
       "His final act of kindness came in the godswood as he bid farewell to Bran and Rickon, offering them comfort amidst chaos following Ramsay’s brutal takeover."
     ]
+  },
+  {
+    "id": 96,
+    "name": "Lyanna Stark",
+    "actors": "Aisling Franciosi / Cordelia Hill",
+    "debut": "Season 6",
+    "imageUrl": "/images/lyanna_stark.jpg",
+    "description": "The enigmatic sister of Ned Stark, Lyanna's legacy looms large over the events of *Game of Thrones*. Her clandestine union with Prince Rhaegar Targaryen and the birth of their son, Jon Snow, serve as pivotal elements that ignite the chain of events leading to Robert’s Rebellion. Throughout the series, her actions are shrouded in mystery and speculation, leaving characters and viewers alike pondering whether her disappearance was driven by love or a darker purpose. Her deathbed request for Ned to protect her child further cements her influence on the storyline.",
+    "memorableMoments": [
+      "In Bran's vision of the past, young Lyanna defies her brothers Ned and Benjen with her spirited demeanor, showcasing her rebellious nature.",
+      "On her deathbed, Lyanna entrusts Ned Stark with the care of her newborn son, Jon Snow, a decision that carries profound implications for his identity and future.",
+      "The show leaves fans in suspense over Lyanna's true intentions and the name she might have given Jon. Some speculate it could be 'Jaehaerys,' adding to the intrigue surrounding her character."
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Kraznys mo Nakloz",
+    "actor": "Dan Hildebrand",
+    "debut": "Season 3",
+    "imageUrl": "/images/kraznys_mo_nakloz.jpg",
+    "description": "A notorious slaver from Astapori, Kraznys mo Nakloz is a distinctly villainous character introduced in *Game of Thrones*. Known for his brutal and unscrupulous behavior, he encounters Daenerys Targaryen when he attempts to trade an army of Unsullied slaves for one of her dragons. His fate comes swiftly as he meets a fiery end at the hands of Drogon, serving as one of the most memorable and satisfying moments of Season 3. Kraznys's inclusion in the series highlights Daenerys’s growing power and the ruthlessness of those who oppose her.",
+    "memorableMoments": [
+      "Attempted to bargain with Daenerys for a dragon by offering an army of Unsullied, only to be roasted alive by Drogon.",
+      "His last words, 'Dracarys,' are among the most iconic lines from Season 3, signifying his dramatic end and underscoring Daenerys’s newfound authority."
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Syrio Forel",
+    "actor": "Miltos Yerolemou",
+    "debut": "Season 1",
+    "imageUrl": "/images/syrio_forel.jpg",
+    "description": "Known as 'Water Dance,' Syrio Forel is introduced in *Game of Thrones* as Arya Stark's sword master during their time in Braavos. His charismatic teaching style and philosophical outlook on life leave a lasting impression on Arya, sparking her journey toward becoming a formidable warrior and assassin. Although his tenure is brief—he meets a tragic end at the hands of Meryn Trant—Syrio’s influence is profound. He instills in Arya not only combat skills but also an unyielding spirit that guides her throughout the series.",
+    "memorableMoments": [
+      "Introduces Arya to the Water Dance technique, challenging her preconceptions about strength and skill.",
+      "Instructs Arya on how to invoke the god of death with the words 'Not today,' marking a significant moment in her development.",
+      "His death at Meryn Trant’s hands is pivotal, serving as a catalyst for Arya's transformation and her path toward vengeance."
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Rickard Karstark",
+    "actors": "Steven Blount / John Stahl",
+    "debut": "Season 1",
+    "imageUrl": "/images/rickard_karstark.jpg",
+    "description": "Though a relatively minor character in terms of screen time, Lord Rickard Karstark plays a crucial role in the unfolding events of *Game of Thrones*. As one of Robb Stark's Lords of the North, he initially pledges his loyalty to Robb as King in the North. However, his actions following Catelyn Stark’s controversial release of Jaime Lannister—resulting in the killing of his son, Will—lead him down a path of vengeance that ultimately proves disastrous for House Stark. By executing two imprisoned Lannisters, Karstark incites Robb to order his execution, alienating House Karstark and costing the Starks a valuable ally during the War of the Five Kings. This chain reaction not only sows seeds of discord but also influences future events, as Harald Karstark later aligns with Ramsay Bolton against Stark interests.",
+    "memorableMoments": [
+      "In Season 1, played by Steven Blount, he is one of the first lords to declare his allegiance to Robb Stark as King in the North.",
+      "During a meeting at Riverrun in Season 3, Karstark—now portrayed by John Stahl—boldly suggests that marrying Talisa may have cost Robb the war, displaying his straightforward and often blunt nature.",
+      "His execution of two Lannister boys in retaliation for Catelyn Stark releasing Jaime is a pivotal moment. This act leads to his beheading at the hands of Robb Stark, resulting in significant repercussions for House Stark’s alliances."
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Will",
+    "actor": "Bronson Webb",
+    "debut": "Season 1",
+    "imageUrl": "/images/will.jpg",
+    "description": "In the harrowing premiere of *Game of Thrones*, young Will serves as an introduction to the daunting and perilous world that lies beyond the Wall, setting the stage for the White Walkers' menace. As one of the Night's Watch recruits who narrowly escapes a deadly encounter with these supernatural foes, Will embodies the series’ theme of survival in a harsh environment. However, his luck runs out when he deserts to King’s Landing, seeking personal gain. His return to the North culminates in a grim fate as Ned Stark executes him for his betrayal and desertion using the legendary greatsword Ice, underscoring the strict code of honor upheld by House Stark.",
+    "memorableMoments": [
+      "Will makes one of the first appearances of the White Walkers, capturing their terrifying presence during an attack on the Night's Watch recruits.",
+      "His execution at the hands of Ned Stark with the greatsword Ice serves as a poignant reminder of the consequences of desertion and betrayal within the Night's Watch."
+    ]
   }
 ]
